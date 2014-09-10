@@ -1,0 +1,2304 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ncm-edition classversion="1.0" pk="218:0:68">
+   <newspaper_id type="Integer">218</newspaper_id>
+   <alt_newspaper_id type="Short">0</alt_newspaper_id>
+   <edition id="68" master-edition-name="*****" mnemonic="1ST" name="FIRST" nm="1ST"
+            time-name="FIRST"
+            zone-name="MAIN">
+      <newspaper-level level-path="NP">
+         <level id="3.0.0.0.0" level="1" name="NP" path="NP" type="Newspaper,AllCatalogs"/>
+      </newspaper-level>
+      <page-level level-path="">
+         <level id="0.0.0.0.0" level="0" name="ROOT" path="" type="AllCatalogs"/>
+      </page-level>
+   </edition>
+   <level id="3.0.0.0.0" level="1" name="NP" path="NP" type="Newspaper,AllCatalogs"/>
+   <pub_date type="Date">Mar 11, 2013</pub_date>
+   <flags type="Integer">2</flags>
+   <rules_id type="Integer">0</rules_id>
+   <number_of_pages type="Integer">52</number_of_pages>
+   <correction_flag type="Boolean">false</correction_flag>
+   <creator type="NCMUser">
+      <id>7</id>
+      <name>BATCH</name>
+      <type> </type>
+   </creator>
+   <creation_ts type="Date">Mar 8, 2013</creation_ts>
+   <modifier type="NCMUser">
+      <id>7</id>
+      <name>BATCH</name>
+      <type> </type>
+   </modifier>
+   <modifier_ts type="Date">Mar 8, 2013</modifier_ts>
+   <modifier_ws type="Integer">0</modifier_ws>
+   <modifying type="NCMUser"/>
+   <modifying_ws type="Integer">0</modifying_ws>
+   <mediatype type="String">ncm-edition</mediatype>
+   <extra-properties/>
+   <physical-pages-of-a-ncm-edition count="52">
+      <ncm-physical-page classversion="1.0" pk="59674">
+         <phpage_id type="Integer">59674</phpage_id>
+         <level id="3.0.0.0.0" level="1" name="NP" path="NP" type="Newspaper,AllCatalogs"/>
+         <pub_date type="Date">Mar 11, 2013</pub_date>
+         <edition id="68" master-edition-name="*****" mnemonic="1ST" name="FIRST" nm="1ST"
+                  time-name="FIRST"
+                  zone-name="MAIN">
+            <newspaper-level level-path="NP">
+               <level id="3.0.0.0.0" level="1" name="NP" path="NP" type="Newspaper,AllCatalogs"/>
+            </newspaper-level>
+            <page-level level-path="">
+               <level id="0.0.0.0.0" level="0" name="ROOT" path="" type="AllCatalogs"/>
+            </page-level>
+         </edition>
+         <seq_number type="Short">2</seq_number>
+         <first_phpage_id type="Integer">59674</first_phpage_id>
+         <master_phpage_id type="Integer">0</master_phpage_id>
+         <style type="String">NP_SGL</style>
+         <physpage_status type="NCMStatus">
+            <status id="18" name="XMIT"/>
+            <extended-status type="Integer">8</extended-status>
+         </physpage_status>
+         <flags type="Integer">4</flags>
+         <page_number_str type="String">2</page_number_str>
+         <page_number1_str type="String">2</page_number1_str>
+         <plate_name type="String">NP_SINGLE</plate_name>
+         <section1 mnemonic="" name="NPS" type="NCMSection"/>
+         <header mnemonic="" name="NP_SGL" type="NCMHeadFootRect" units="Pica">
+            <bounding-rect depth="16.5" width="728.1" xpos="0.0" ypos="0.0"/>
+         </header>
+         <footer mnemonic="" name="" type="NCMHeadFootRect" units="Pica">
+            <bounding-rect depth="0.0" width="0.0" xpos="0.0" ypos="0.0"/>
+         </footer>
+         <exit_time type="Integer">0</exit_time>
+         <warning_time type="Integer">0</warning_time>
+         <warning_type type="Integer">0</warning_type>
+         <plannedcolors type="NCMColor">
+            <stdcolors type="String">CMYK</stdcolors>
+            <options type="String">COMPOSITE 4PLATES</options>
+         </plannedcolors>
+         <printedcolors type="NCMColor">
+            <stdcolors type="String">CMYK</stdcolors>
+            <options type="String">COMPOSITE 4PLATES</options>
+         </printedcolors>
+         <colors_flags type="Integer">0</colors_flags>
+         <note type="String">NEWS</note>
+         <user7 type="String">2</user7>
+         <user8 type="String">3</user8>
+         <user9 type="String">&lt;COC100_M15_Y0_K5&gt;</user9>
+         <hermes-page name="page_size" type="NCMPageBoundRect" units="Pica">
+            <bounding-rect depth="953.2" width="728.1"/>
+         </hermes-page>
+         <copies type="Integer">0</copies>
+         <is_printed type="Boolean">true</is_printed>
+         <last_printed_ts type="Date">Apr 11, 2013</last_printed_ts>
+         <logpages_number type="Integer">1</logpages_number>
+         <book_name type="String">@@@DEFAULTBKNAME@@@</book_name>
+         <book_seq_number type="Short">0</book_seq_number>
+         <book_color type="Integer">0</book_color>
+         <newspaper_id type="Integer">218</newspaper_id>
+         <alt_newspaper_id type="Short">0</alt_newspaper_id>
+         <activated_logpage_id type="Integer">0</activated_logpage_id>
+         <correction_flag type="Boolean">false</correction_flag>
+         <inheriting_flag type="Integer">1995</inheriting_flag>
+         <creator type="NCMUser">
+            <id>7</id>
+            <name>BATCH</name>
+            <type> </type>
+         </creator>
+         <creation_ts type="Date">Mar 8, 2013</creation_ts>
+         <modifier type="NCMUser">
+            <id>7</id>
+            <name>BATCH</name>
+            <type> </type>
+         </modifier>
+         <modifier_ts type="Date">Mar 8, 2013</modifier_ts>
+         <modifier_ws type="Integer">0</modifier_ws>
+         <modifying type="NCMUser"/>
+         <modifying_ws type="Integer">0</modifying_ws>
+         <user1 type="String">NP</user1>
+         <user2 type="String">NP</user2>
+         <mnemonic type="String">NP</mnemonic>
+         <file-property name="preview" type="File">
+            <file-name/>
+            <preview-version-number>0</preview-version-number>
+            <preview-status>-1</preview-status>
+            <preview-lock>false</preview-lock>
+         </file-property>
+         <mediatype type="String">ncm-physical-page</mediatype>
+         <extra-properties/>
+         <logical-pages-linked-to-ncm-physical-page count="1">
+            <ncm-logical-page classversion="1.0" pk="NPS-002:20130311:68:3.4.3.0.0:ALT1">
+               <pubnumber type="String"/>
+               <page_id type="Integer">14658</page_id>
+               <level id="3.4.3.0.0" level="3" name="PAGES" path="NP/NEWS/PAGES" type="Page,HasDate"/>
+               <name type="String">NPS-002</name>
+               <pub_date type="Date">Mar 11, 2013</pub_date>
+               <edition id="68" master-edition-name="*****" mnemonic="1ST" name="FIRST" nm="1ST"
+                        time-name="FIRST"
+                        zone-name="MAIN">
+                  <newspaper-level level-path="NP">
+                     <level id="3.0.0.0.0" level="1" name="NP" path="NP" type="Newspaper,AllCatalogs"/>
+                  </newspaper-level>
+                  <page-level level-path="">
+                     <level id="0.0.0.0.0" level="0" name="ROOT" path="" type="AllCatalogs"/>
+                  </page-level>
+               </edition>
+               <creator type="NCMUser">
+                  <id>7</id>
+                  <name>BATCH</name>
+                  <type> </type>
+               </creator>
+               <creation_ts type="Date">Mar 8, 2013</creation_ts>
+               <modifier type="NCMUser">
+                  <id>25</id>
+                  <name>ELWIN</name>
+                  <type>ITD</type>
+               </modifier>
+               <modifier_ts type="Date">Apr 15, 2013</modifier_ts>
+               <modifier_ws type="Integer">0</modifier_ws>
+               <modifying type="NCMUser"/>
+               <modifying_ws type="Integer">0</modifying_ws>
+               <is_locked type="Boolean">false</is_locked>
+               <hermes_version type="Integer">0</hermes_version>
+               <page_comment type="String">1-2</page_comment>
+               <parent_id type="Integer">0</parent_id>
+               <department_id type="Integer">1</department_id>
+               <last_update_ts type="Date">Apr 15, 2013</last_update_ts>
+               <hermes-page name="page_rect" type="NCMPageBoundRect" units="Pica">
+                  <bounding-rect depth="953.2" width="728.0"/>
+                  <content-property name="adoby_indesign" type="NCMIndesign">
+                     <file-property name="hermes_file" type="File">
+                        <file-name>PAG14658_ALT0_4.INDD</file-name>
+                        <original-file href="http://sun115:8080/ncm/dispatcher?auth=QkFUQ0g6QkFUQ0g=&amp;url=/ncm/file?file=/spherm/images/extPage/InDesign/3/4/3/20130311/68/PAG14658_ALT0_4.INDD">
+                           <server-path>/spherm/images/extPage/InDesign/3/4/3/20130311/68/PAG14658_ALT0_4.INDD</server-path>
+                        </original-file>
+                     </file-property>
+                     <content-property imagetype="TIFF" name="hermes_image" type="NCMImage">
+                        <original-file href="http://sun115:8080/ncm/dispatcher?auth=QkFUQ0g6QkFUQ0g=&amp;url=/ncm/file?file=/spherm/images/extPage/InDesign/3/4/3/20130311/68/PAG14658_ALT0_4.INDD"/>
+                        <file-property name="hermes_image" type="NCMImage">
+                           <file-name>PAG14658_ALT0_4.JPG</file-name>
+                           <original-file href="http://sun115:8080/ncm/dispatcher?auth=QkFUQ0g6QkFUQ0g=&amp;url=/ncm/file?file=/spherm/images/extPage/InDesign/3/4/3/20130311/68/PAG14658_ALT0_4.JPG">
+                              <server-path>/spherm/images/extPage/InDesign/3/4/3/20130311/68/PAG14658_ALT0_4.JPG</server-path>
+                           </original-file>
+                           <medium-preview href="http://sun115:8080/ncm/dispatcher?auth=QkFUQ0g6QkFUQ0g=&amp;url=/ncm/file?file=/spherm/images/extPage/InDesign/3/4/3/20130311/68/PAG14658_ALT0_4.low">
+                              <server-path>/spherm/images/extPage/InDesign/3/4/3/20130311/68/PAG14658_ALT0_4.low</server-path>
+                           </medium-preview>
+                           <low-preview href="http://sun115:8080/ncm/dispatcher?auth=QkFUQ0g6QkFUQ0g=&amp;url=/ncm/file?file=/spherm/images/extPage/InDesign/3/4/3/20130311/68/PAG14658_ALT0_4.thn">
+                              <server-path>/spherm/images/extPage/InDesign/3/4/3/20130311/68/PAG14658_ALT0_4.thn</server-path>
+                           </low-preview>
+                        </file-property>
+                        <image-size type="NCMRect" unit="Pixel">
+                           <width>2016.0</width>
+                           <height>2638.0</height>
+                        </image-size>
+                        <original-image-size type="NCMRect" unit="PSP">
+                           <width>725.76</width>
+                           <height>949.68</height>
+                        </original-image-size>
+                        <crop-rect bottom="2638" left="0" right="2016" top="0"/>
+                        <img-position llx="0.0" lly="0.0" lrx="725.76" lry="0.0" ulx="0.0" uly="949.68" urx="725.76"
+                                      ury="949.68"/>
+                        <xy-transf crop-off-x="0.0" crop-off-y="0.0" dim-x="725.76" dim-y="949.68" flip-x="false"
+                                   flip-y="false"
+                                   norg-x="0.0"
+                                   norg-y="0.0"
+                                   rotate="0.0"
+                                   scale-x="100.0"
+                                   scale-y="100.0"
+                                   skew="0.0"/>
+                        <bounding-box bottom="949.68" left="0.0" right="725.76" top="0.0"/>
+                     </content-property>
+                  </content-property>
+               </hermes-page>
+               <newflag type="Integer">0</newflag>
+               <style type="String">NPS_SGL_ID</style>
+               <format type="String">InDesign</format>
+               <content-property name="adoby_indesign" type="NCMIndesign">
+                  <file-property name="hermes_file" type="File">
+                     <file-name>PAG14658_ALT0_4.INDD</file-name>
+                     <original-file href="http://sun115:8080/ncm/dispatcher?auth=QkFUQ0g6QkFUQ0g=&amp;url=/ncm/file?file=/spherm/images/extPage/InDesign/3/4/3/20130311/68/PAG14658_ALT0_4.INDD">
+                        <server-path>/spherm/images/extPage/InDesign/3/4/3/20130311/68/PAG14658_ALT0_4.INDD</server-path>
+                     </original-file>
+                  </file-property>
+                  <content-property imagetype="TIFF" name="hermes_image" type="NCMImage">
+                     <original-file href="http://sun115:8080/ncm/dispatcher?auth=QkFUQ0g6QkFUQ0g=&amp;url=/ncm/file?file=/spherm/images/extPage/InDesign/3/4/3/20130311/68/PAG14658_ALT0_4.INDD"/>
+                     <file-property name="hermes_image" type="NCMImage">
+                        <file-name>PAG14658_ALT0_4.JPG</file-name>
+                        <original-file href="http://sun115:8080/ncm/dispatcher?auth=QkFUQ0g6QkFUQ0g=&amp;url=/ncm/file?file=/spherm/images/extPage/InDesign/3/4/3/20130311/68/PAG14658_ALT0_4.JPG">
+                           <server-path>/spherm/images/extPage/InDesign/3/4/3/20130311/68/PAG14658_ALT0_4.JPG</server-path>
+                        </original-file>
+                        <medium-preview href="http://sun115:8080/ncm/dispatcher?auth=QkFUQ0g6QkFUQ0g=&amp;url=/ncm/file?file=/spherm/images/extPage/InDesign/3/4/3/20130311/68/PAG14658_ALT0_4.low">
+                           <server-path>/spherm/images/extPage/InDesign/3/4/3/20130311/68/PAG14658_ALT0_4.low</server-path>
+                        </medium-preview>
+                        <low-preview href="http://sun115:8080/ncm/dispatcher?auth=QkFUQ0g6QkFUQ0g=&amp;url=/ncm/file?file=/spherm/images/extPage/InDesign/3/4/3/20130311/68/PAG14658_ALT0_4.thn">
+                           <server-path>/spherm/images/extPage/InDesign/3/4/3/20130311/68/PAG14658_ALT0_4.thn</server-path>
+                        </low-preview>
+                     </file-property>
+                     <image-size type="NCMRect" unit="Pixel">
+                        <width>2016.0</width>
+                        <height>2638.0</height>
+                     </image-size>
+                     <original-image-size type="NCMRect" unit="PSP">
+                        <width>725.76</width>
+                        <height>949.68</height>
+                     </original-image-size>
+                     <crop-rect bottom="2638" left="0" right="2016" top="0"/>
+                     <img-position llx="0.0" lly="0.0" lrx="725.76" lry="0.0" ulx="0.0" uly="949.68" urx="725.76"
+                                   ury="949.68"/>
+                     <xy-transf crop-off-x="0.0" crop-off-y="0.0" dim-x="725.76" dim-y="949.68" flip-x="false"
+                                flip-y="false"
+                                norg-x="0.0"
+                                norg-y="0.0"
+                                rotate="0.0"
+                                scale-x="100.0"
+                                scale-y="100.0"
+                                skew="0.0"/>
+                     <bounding-box bottom="949.68" left="0.0" right="725.76" top="0.0"/>
+                  </content-property>
+               </content-property>
+               <status type="NCMStatus">
+                  <status id="29" name="PAGE_DESIGN"/>
+                  <extended-status type="Integer">32</extended-status>
+                  <sendto type="list">
+                     <sendto>0</sendto>
+                  </sendto>
+               </status>
+               <ext_status type="String">32</ext_status>
+               <property name="sendto" type="NCMMultipleSendTo">0</property>
+               <is_external type="Boolean">true</is_external>
+               <is_virtual type="Boolean">false</is_virtual>
+               <type type="Integer">0</type>
+               <invalidate_flag type="Short">0</invalidate_flag>
+               <version_ts type="Date">Apr 15, 2013</version_ts>
+               <version type="Integer">0</version>
+               <template_id type="Integer">0</template_id>
+               <alternative_id type="Integer">1</alternative_id>
+               <alternative_state type="Boolean">true</alternative_state>
+               <orig_page_id type="Integer">0</orig_page_id>
+               <phpage_previews type="String">59674=-1*0*false*null*null*#59726=-1*0*false*null*null*#59778=-1*0*false*null*null*#59830=-1*0*false*null*null*#</phpage_previews>
+               <channel id="1" name="NP"/>
+               <mediatype type="String">ncm-logical-page</mediatype>
+               <extra-properties>
+                  <NP_OLD locked="false" modifier-id="25" modifier-ts="Apr 11, 2013" modifier-ws="33"
+                          type="Metadata">
+                     <COPYRIGHT>SPH</COPYRIGHT>
+                     <SUB>LIMHPS</SUB>
+                     <REDRAWS>0</REDRAWS>
+                     <STORY_TYPE>OWN</STORY_TYPE>
+                  </NP_OLD>
+                  <NP locked="false" modifier-id="25" modifier-ts="Apr 11, 2013" modifier-ws="33"
+                      type="Metadata">
+                     <OBJ_COPYRIGHT>SPH</OBJ_COPYRIGHT>
+                     <OBJ_STORYTYPE>OWN</OBJ_STORYTYPE>
+                     <PAGE_DESIGNER>ELWIN</PAGE_DESIGNER>
+                     <PAGE_REDRAW>10</PAGE_REDRAW>
+                     <PAGE_REDRAW_REASON>FOR FUN</PAGE_REDRAW_REASON>
+                  </NP>
+               </extra-properties>
+               <physical-pages-containing-the-ncm-logical-page count="4">
+                  <ncm-physical-page classversion="1.0" pk="59674">
+                     <phpage_id type="Integer">59674</phpage_id>
+                     <level id="3.0.0.0.0" level="1" name="NP" path="NP" type="Newspaper,AllCatalogs"/>
+                     <pub_date type="Date">Mar 11, 2013</pub_date>
+                     <edition id="68" master-edition-name="*****" mnemonic="1ST" name="FIRST" nm="1ST"
+                              time-name="FIRST"
+                              zone-name="MAIN">
+                        <newspaper-level level-path="NP">
+                           <level id="3.0.0.0.0" level="1" name="NP" path="NP" type="Newspaper,AllCatalogs"/>
+                        </newspaper-level>
+                        <page-level level-path="">
+                           <level id="0.0.0.0.0" level="0" name="ROOT" path="" type="AllCatalogs"/>
+                        </page-level>
+                     </edition>
+                     <seq_number type="Short">2</seq_number>
+                     <first_phpage_id type="Integer">59674</first_phpage_id>
+                     <master_phpage_id type="Integer">0</master_phpage_id>
+                     <style type="String">NP_SGL</style>
+                     <physpage_status type="NCMStatus">
+                        <status id="18" name="XMIT"/>
+                        <extended-status type="Integer">8</extended-status>
+                     </physpage_status>
+                     <flags type="Integer">4</flags>
+                     <page_number_str type="String">2</page_number_str>
+                     <page_number1_str type="String">2</page_number1_str>
+                     <plate_name type="String">NP_SINGLE</plate_name>
+                     <section1 mnemonic="" name="NPS" type="NCMSection"/>
+                     <header mnemonic="" name="NP_SGL" type="NCMHeadFootRect" units="Pica">
+                        <bounding-rect depth="16.5" width="728.1" xpos="0.0" ypos="0.0"/>
+                     </header>
+                     <footer mnemonic="" name="" type="NCMHeadFootRect" units="Pica">
+                        <bounding-rect depth="0.0" width="0.0" xpos="0.0" ypos="0.0"/>
+                     </footer>
+                     <exit_time type="Integer">0</exit_time>
+                     <warning_time type="Integer">0</warning_time>
+                     <warning_type type="Integer">0</warning_type>
+                     <plannedcolors type="NCMColor">
+                        <stdcolors type="String">CMYK</stdcolors>
+                        <options type="String">COMPOSITE 4PLATES</options>
+                     </plannedcolors>
+                     <printedcolors type="NCMColor">
+                        <stdcolors type="String">CMYK</stdcolors>
+                        <options type="String">COMPOSITE 4PLATES</options>
+                     </printedcolors>
+                     <colors_flags type="Integer">0</colors_flags>
+                     <note type="String">NEWS</note>
+                     <user7 type="String">2</user7>
+                     <user8 type="String">3</user8>
+                     <user9 type="String">&lt;COC100_M15_Y0_K5&gt;</user9>
+                     <hermes-page name="page_size" type="NCMPageBoundRect" units="Pica">
+                        <bounding-rect depth="953.2" width="728.1"/>
+                     </hermes-page>
+                     <copies type="Integer">0</copies>
+                     <is_printed type="Boolean">true</is_printed>
+                     <last_printed_ts type="Date">Apr 11, 2013</last_printed_ts>
+                     <logpages_number type="Integer">1</logpages_number>
+                     <book_name type="String">@@@DEFAULTBKNAME@@@</book_name>
+                     <book_seq_number type="Short">0</book_seq_number>
+                     <book_color type="Integer">0</book_color>
+                     <newspaper_id type="Integer">218</newspaper_id>
+                     <alt_newspaper_id type="Short">0</alt_newspaper_id>
+                     <activated_logpage_id type="Integer">0</activated_logpage_id>
+                     <correction_flag type="Boolean">false</correction_flag>
+                     <inheriting_flag type="Integer">1995</inheriting_flag>
+                     <creator type="NCMUser">
+                        <id>7</id>
+                        <name>BATCH</name>
+                        <type> </type>
+                     </creator>
+                     <creation_ts type="Date">Mar 8, 2013</creation_ts>
+                     <modifier type="NCMUser">
+                        <id>7</id>
+                        <name>BATCH</name>
+                        <type> </type>
+                     </modifier>
+                     <modifier_ts type="Date">Mar 8, 2013</modifier_ts>
+                     <modifier_ws type="Integer">0</modifier_ws>
+                     <modifying type="NCMUser"/>
+                     <modifying_ws type="Integer">0</modifying_ws>
+                     <mnemonic type="String">NP</mnemonic>
+                     <file-property name="preview" type="File">
+                        <file-name/>
+                        <preview-version-number>0</preview-version-number>
+                        <preview-status>-1</preview-status>
+                        <preview-lock>false</preview-lock>
+                     </file-property>
+                     <mediatype type="String">ncm-physical-page</mediatype>
+                     <extra-properties/>
+                  </ncm-physical-page>
+                  <ncm-physical-page classversion="1.0" pk="59726">
+                     <phpage_id type="Integer">59726</phpage_id>
+                     <level id="3.0.0.0.0" level="1" name="NP" path="NP" type="Newspaper,AllCatalogs"/>
+                     <pub_date type="Date">Mar 11, 2013</pub_date>
+                     <edition id="69" master-edition-name="FIRST" mnemonic="2ND" name="SECOND" nm="2ND"
+                              time-name="SECOND"
+                              zone-name="MAIN">
+                        <newspaper-level level-path="NP">
+                           <level id="3.0.0.0.0" level="1" name="NP" path="NP" type="Newspaper,AllCatalogs"/>
+                        </newspaper-level>
+                        <page-level level-path="">
+                           <level id="0.0.0.0.0" level="0" name="ROOT" path="" type="AllCatalogs"/>
+                        </page-level>
+                     </edition>
+                     <seq_number type="Short">2</seq_number>
+                     <first_phpage_id type="Integer">59674</first_phpage_id>
+                     <master_phpage_id type="Integer">59674</master_phpage_id>
+                     <style type="String">NP_SGL</style>
+                     <physpage_status type="NCMStatus">
+                        <status id="17" name="PLANNED"/>
+                        <extended-status type="Integer">8</extended-status>
+                     </physpage_status>
+                     <flags type="Integer">4</flags>
+                     <page_number_str type="String">2</page_number_str>
+                     <page_number1_str type="String">2</page_number1_str>
+                     <plate_name type="String">NP_SINGLE</plate_name>
+                     <section1 mnemonic="" name="NPS" type="NCMSection"/>
+                     <header mnemonic="" name="NP_SGL" type="NCMHeadFootRect" units="Pica">
+                        <bounding-rect depth="16.5" width="728.1" xpos="0.0" ypos="0.0"/>
+                     </header>
+                     <footer mnemonic="" name="" type="NCMHeadFootRect" units="Pica">
+                        <bounding-rect depth="0.0" width="0.0" xpos="0.0" ypos="0.0"/>
+                     </footer>
+                     <exit_time type="Integer">0</exit_time>
+                     <warning_time type="Integer">0</warning_time>
+                     <warning_type type="Integer">0</warning_type>
+                     <plannedcolors type="NCMColor">
+                        <stdcolors type="String">CMYK</stdcolors>
+                        <options type="String">COMPOSITE 4PLATES</options>
+                     </plannedcolors>
+                     <colors_flags type="Integer">0</colors_flags>
+                     <note type="String">NEWS</note>
+                     <user7 type="String">2</user7>
+                     <user8 type="String">3</user8>
+                     <user9 type="String">&lt;COC100_M15_Y0_K5&gt;</user9>
+                     <hermes-page name="page_size" type="NCMPageBoundRect" units="Pica">
+                        <bounding-rect depth="953.2" width="728.1"/>
+                     </hermes-page>
+                     <copies type="Integer">0</copies>
+                     <is_printed type="Boolean">false</is_printed>
+                     <logpages_number type="Integer">1</logpages_number>
+                     <book_name type="String">@@@DEFAULTBKNAME@@@</book_name>
+                     <book_seq_number type="Short">0</book_seq_number>
+                     <book_color type="Integer">0</book_color>
+                     <newspaper_id type="Integer">218</newspaper_id>
+                     <alt_newspaper_id type="Short">0</alt_newspaper_id>
+                     <activated_logpage_id type="Integer">0</activated_logpage_id>
+                     <correction_flag type="Boolean">false</correction_flag>
+                     <inheriting_flag type="Integer">1995</inheriting_flag>
+                     <creator type="NCMUser">
+                        <id>7</id>
+                        <name>BATCH</name>
+                        <type> </type>
+                     </creator>
+                     <creation_ts type="Date">Mar 8, 2013</creation_ts>
+                     <modifier type="NCMUser">
+                        <id>7</id>
+                        <name>BATCH</name>
+                        <type> </type>
+                     </modifier>
+                     <modifier_ts type="Date">Mar 8, 2013</modifier_ts>
+                     <modifier_ws type="Integer">0</modifier_ws>
+                     <modifying type="NCMUser"/>
+                     <modifying_ws type="Integer">0</modifying_ws>
+                     <mnemonic type="String">NP</mnemonic>
+                     <file-property name="preview" type="File">
+                        <file-name/>
+                        <preview-version-number>0</preview-version-number>
+                        <preview-status>-1</preview-status>
+                        <preview-lock>false</preview-lock>
+                     </file-property>
+                     <mediatype type="String">ncm-physical-page</mediatype>
+                     <extra-properties/>
+                  </ncm-physical-page>
+                  <ncm-physical-page classversion="1.0" pk="59778">
+                     <phpage_id type="Integer">59778</phpage_id>
+                     <level id="3.0.0.0.0" level="1" name="NP" path="NP" type="Newspaper,AllCatalogs"/>
+                     <pub_date type="Date">Mar 11, 2013</pub_date>
+                     <edition id="101" master-edition-name="SECOND" mnemonic="3RD" name="THIRD" nm="3RD"
+                              time-name="THIRD"
+                              zone-name="MAIN">
+                        <newspaper-level level-path="NP">
+                           <level id="3.0.0.0.0" level="1" name="NP" path="NP" type="Newspaper,AllCatalogs"/>
+                        </newspaper-level>
+                        <page-level level-path="">
+                           <level id="0.0.0.0.0" level="0" name="ROOT" path="" type="AllCatalogs"/>
+                        </page-level>
+                     </edition>
+                     <seq_number type="Short">2</seq_number>
+                     <first_phpage_id type="Integer">59674</first_phpage_id>
+                     <master_phpage_id type="Integer">59726</master_phpage_id>
+                     <style type="String">NP_SGL</style>
+                     <physpage_status type="NCMStatus">
+                        <status id="17" name="PLANNED"/>
+                        <extended-status type="Integer">8</extended-status>
+                     </physpage_status>
+                     <flags type="Integer">4</flags>
+                     <page_number_str type="String">2</page_number_str>
+                     <page_number1_str type="String">2</page_number1_str>
+                     <plate_name type="String">NP_SINGLE</plate_name>
+                     <section1 mnemonic="" name="NPS" type="NCMSection"/>
+                     <header mnemonic="" name="NP_SGL" type="NCMHeadFootRect" units="Pica">
+                        <bounding-rect depth="16.5" width="728.1" xpos="0.0" ypos="0.0"/>
+                     </header>
+                     <footer mnemonic="" name="" type="NCMHeadFootRect" units="Pica">
+                        <bounding-rect depth="0.0" width="0.0" xpos="0.0" ypos="0.0"/>
+                     </footer>
+                     <exit_time type="Integer">0</exit_time>
+                     <warning_time type="Integer">0</warning_time>
+                     <warning_type type="Integer">0</warning_type>
+                     <plannedcolors type="NCMColor">
+                        <stdcolors type="String">CMYK</stdcolors>
+                        <options type="String">COMPOSITE 4PLATES</options>
+                     </plannedcolors>
+                     <colors_flags type="Integer">0</colors_flags>
+                     <note type="String">NEWS</note>
+                     <user7 type="String">2</user7>
+                     <user8 type="String">3</user8>
+                     <user9 type="String">&lt;COC100_M15_Y0_K5&gt;</user9>
+                     <hermes-page name="page_size" type="NCMPageBoundRect" units="Pica">
+                        <bounding-rect depth="953.2" width="728.1"/>
+                     </hermes-page>
+                     <copies type="Integer">0</copies>
+                     <is_printed type="Boolean">false</is_printed>
+                     <logpages_number type="Integer">1</logpages_number>
+                     <book_name type="String">@@@DEFAULTBKNAME@@@</book_name>
+                     <book_seq_number type="Short">0</book_seq_number>
+                     <book_color type="Integer">0</book_color>
+                     <newspaper_id type="Integer">218</newspaper_id>
+                     <alt_newspaper_id type="Short">0</alt_newspaper_id>
+                     <activated_logpage_id type="Integer">0</activated_logpage_id>
+                     <correction_flag type="Boolean">false</correction_flag>
+                     <inheriting_flag type="Integer">1995</inheriting_flag>
+                     <creator type="NCMUser">
+                        <id>7</id>
+                        <name>BATCH</name>
+                        <type> </type>
+                     </creator>
+                     <creation_ts type="Date">Mar 8, 2013</creation_ts>
+                     <modifier type="NCMUser">
+                        <id>7</id>
+                        <name>BATCH</name>
+                        <type> </type>
+                     </modifier>
+                     <modifier_ts type="Date">Mar 8, 2013</modifier_ts>
+                     <modifier_ws type="Integer">0</modifier_ws>
+                     <modifying type="NCMUser"/>
+                     <modifying_ws type="Integer">0</modifying_ws>
+                     <mnemonic type="String">NP</mnemonic>
+                     <file-property name="preview" type="File">
+                        <file-name/>
+                        <preview-version-number>0</preview-version-number>
+                        <preview-status>-1</preview-status>
+                        <preview-lock>false</preview-lock>
+                     </file-property>
+                     <mediatype type="String">ncm-physical-page</mediatype>
+                     <extra-properties/>
+                  </ncm-physical-page>
+                  <ncm-physical-page classversion="1.0" pk="59830">
+                     <phpage_id type="Integer">59830</phpage_id>
+                     <level id="3.0.0.0.0" level="1" name="NP" path="NP" type="Newspaper,AllCatalogs"/>
+                     <pub_date type="Date">Mar 11, 2013</pub_date>
+                     <edition id="102" master-edition-name="THIRD" mnemonic="4TH" name="FOURTH" nm="4TH"
+                              time-name="FOURTH"
+                              zone-name="MAIN">
+                        <newspaper-level level-path="NP">
+                           <level id="3.0.0.0.0" level="1" name="NP" path="NP" type="Newspaper,AllCatalogs"/>
+                        </newspaper-level>
+                        <page-level level-path="">
+                           <level id="0.0.0.0.0" level="0" name="ROOT" path="" type="AllCatalogs"/>
+                        </page-level>
+                     </edition>
+                     <seq_number type="Short">2</seq_number>
+                     <first_phpage_id type="Integer">59674</first_phpage_id>
+                     <master_phpage_id type="Integer">59778</master_phpage_id>
+                     <style type="String">NP_SGL</style>
+                     <physpage_status type="NCMStatus">
+                        <status id="17" name="PLANNED"/>
+                        <extended-status type="Integer">8</extended-status>
+                     </physpage_status>
+                     <flags type="Integer">4</flags>
+                     <page_number_str type="String">2</page_number_str>
+                     <page_number1_str type="String">2</page_number1_str>
+                     <plate_name type="String">NP_SINGLE</plate_name>
+                     <section1 mnemonic="" name="NPS" type="NCMSection"/>
+                     <header mnemonic="" name="NP_SGL" type="NCMHeadFootRect" units="Pica">
+                        <bounding-rect depth="16.5" width="728.1" xpos="0.0" ypos="0.0"/>
+                     </header>
+                     <footer mnemonic="" name="" type="NCMHeadFootRect" units="Pica">
+                        <bounding-rect depth="0.0" width="0.0" xpos="0.0" ypos="0.0"/>
+                     </footer>
+                     <exit_time type="Integer">0</exit_time>
+                     <warning_time type="Integer">0</warning_time>
+                     <warning_type type="Integer">0</warning_type>
+                     <plannedcolors type="NCMColor">
+                        <stdcolors type="String">CMYK</stdcolors>
+                        <options type="String">COMPOSITE 4PLATES</options>
+                     </plannedcolors>
+                     <colors_flags type="Integer">0</colors_flags>
+                     <note type="String">NEWS</note>
+                     <user7 type="String">2</user7>
+                     <user8 type="String">3</user8>
+                     <user9 type="String">&lt;COC100_M15_Y0_K5&gt;</user9>
+                     <hermes-page name="page_size" type="NCMPageBoundRect" units="Pica">
+                        <bounding-rect depth="953.2" width="728.1"/>
+                     </hermes-page>
+                     <copies type="Integer">0</copies>
+                     <is_printed type="Boolean">false</is_printed>
+                     <logpages_number type="Integer">1</logpages_number>
+                     <book_name type="String">@@@DEFAULTBKNAME@@@</book_name>
+                     <book_seq_number type="Short">0</book_seq_number>
+                     <book_color type="Integer">0</book_color>
+                     <newspaper_id type="Integer">218</newspaper_id>
+                     <alt_newspaper_id type="Short">0</alt_newspaper_id>
+                     <activated_logpage_id type="Integer">0</activated_logpage_id>
+                     <correction_flag type="Boolean">false</correction_flag>
+                     <inheriting_flag type="Integer">1995</inheriting_flag>
+                     <creator type="NCMUser">
+                        <id>7</id>
+                        <name>BATCH</name>
+                        <type> </type>
+                     </creator>
+                     <creation_ts type="Date">Mar 8, 2013</creation_ts>
+                     <modifier type="NCMUser">
+                        <id>7</id>
+                        <name>BATCH</name>
+                        <type> </type>
+                     </modifier>
+                     <modifier_ts type="Date">Mar 8, 2013</modifier_ts>
+                     <modifier_ws type="Integer">0</modifier_ws>
+                     <modifying type="NCMUser"/>
+                     <modifying_ws type="Integer">0</modifying_ws>
+                     <mnemonic type="String">NP</mnemonic>
+                     <file-property name="preview" type="File">
+                        <file-name/>
+                        <preview-version-number>0</preview-version-number>
+                        <preview-status>-1</preview-status>
+                        <preview-lock>false</preview-lock>
+                     </file-property>
+                     <mediatype type="String">ncm-physical-page</mediatype>
+                     <extra-properties/>
+                  </ncm-physical-page>
+               </physical-pages-containing-the-ncm-logical-page>
+               <layouts-in-ncm-logical-page count="7">
+                  <ncm-layout classversion="1.0" pk="42292:62999:ALT1">
+                     <dummy_obj_id type="Integer">0</dummy_obj_id>
+                     <edition id="68" master-edition-name="*****" mnemonic="1ST" name="FIRST" nm="1ST"
+                              time-name="FIRST"
+                              zone-name="MAIN">
+                        <newspaper-level level-path="NP">
+                           <level id="3.0.0.0.0" level="1" name="NP" path="NP" type="Newspaper,AllCatalogs"/>
+                        </newspaper-level>
+                        <page-level level-path="">
+                           <level id="0.0.0.0.0" level="0" name="ROOT" path="" type="AllCatalogs"/>
+                        </page-level>
+                     </edition>
+                     <is_inpage type="Boolean">true</is_inpage>
+                     <obj_id type="Integer">42292</obj_id>
+                     <lay_id type="Integer">62999</lay_id>
+                     <status type="NCMStatus">
+                        <status id="12" name="STORY_FINAL"/>
+                        <extended-status type="Integer">66</extended-status>
+                        <attribute type="Integer">4</attribute>
+                        <complex-status type="Integer">1</complex-status>
+                        <sendto type="list">
+                           <sendto>0</sendto>
+                        </sendto>
+                     </status>
+                     <ext_status type="String">66</ext_status>
+                     <edition id="68" master-edition-name="*****" mnemonic="1ST" name="FIRST" nm="1ST"
+                              time-name="FIRST"
+                              zone-name="MAIN">
+                        <newspaper-level level-path="NP">
+                           <level id="3.0.0.0.0" level="1" name="NP" path="NP" type="Newspaper,AllCatalogs"/>
+                        </newspaper-level>
+                        <page-level level-path="">
+                           <level id="0.0.0.0.0" level="0" name="ROOT" path="" type="AllCatalogs"/>
+                        </page-level>
+                     </edition>
+                     <reference type="String">A</reference>
+                     <page_id type="Integer">14658</page_id>
+                     <page_name type="String">NPS-002</page_name>
+                     <sub_reference type="Integer">0</sub_reference>
+                     <pub_date type="Date">Mar 11, 2013</pub_date>
+                     <jump_sequence type="Integer">0</jump_sequence>
+                     <level id="3.4.3.0.0" level="3" name="PAGES" path="NP/NEWS/PAGES" type="Page,HasDate"/>
+                     <property name="msendto" type="NCMMultipleSendTo">0</property>
+                     <ncm-type-property data-type="" is-external="false" name="lay_type" type="NCMType">
+                        <object-type histories="50" id="1" name="TEXT">
+                           <initial-status>
+                              <status id="9" name="STORY_NEW"/>
+                           </initial-status>
+                        </object-type>
+                     </ncm-type-property>
+                     <hermes_version type="Integer">0</hermes_version>
+                     <real_size type="Integer">5355</real_size>
+                     <newflag type="Integer">128</newflag>
+                     <real_lines type="Integer">51</real_lines>
+                     <priority type="Short">0</priority>
+                     <format type="String">InCopy</format>
+                     <mandatory type="Short">0</mandatory>
+                     <unique_alt_id type="Integer">1</unique_alt_id>
+                     <surface type="Integer">60066</surface>
+                     <agenda_id type="Integer">0</agenda_id>
+                     <copy_lay_id type="Integer">0</copy_lay_id>
+                     <assignto type="Integer">0</assignto>
+                     <hermes-layout name="lay_rect" type="NCMLayBoundRect" units="Pica">
+                        <bounding-rect depth="569.1" lay-lines="56" width="271.6" xpos="0.2" ypos="311.8"/>
+                     </hermes-layout>
+                     <attribute type="Integer">4</attribute>
+                     <obj_crc type="Integer">0</obj_crc>
+                     <obj_content type="String">AQFAAP8NOxYkAgAAAAAAAAolTlJPYmplY3Q6IFRJRkYKJUFMREltYWdlUmVzb2x1dGlvbjogNzIu
+MDAwMDAwIDcyLjAwMDAwMAolJUJvdW5kaW5nQm94OiAwIDAgMzU3LjAwMDAwMCA1NjcuMDAwMDAw
+CiVOUk9yaWdSYXN0ZXJTaXplOiAzNTcuMDAwMDAwIDU2Ny4wMDAwMDAKJU5SRmlsZU5hbWU6IC9z
+cGhlcm0vaW1hZ2VzL2V4dE9iai9JbkNvcHkvMS8zLzQvMS8yMDEzMDQwOS82OC9PQko0MjI5Ml81
+LkpQRwolTlJBcmNoaXZlOiAKJU5SQ2xpcFBhdGhGbGFnOiAwCiVOUkltYWdlRGltZW5zaW9uczog
+MzU3IDU2NwolTlJJbWFnZUNyb3BSZWN0OiAwIDAgMzU3IDU2NwolTlJJbWFnZVBvc2l0aW9uOiAw
+IDAgMCA1NjcuMDAwMDAwIDM1Ny4wMDAwMDAgNTY3LjAwMDAwMCAzNTcuMDAwMDAwIDAKJU5SWFlU
+cmFuc2Y6IDEwMDAwIDEwMDAwIDAgMCAwIDAgMCAwIDE2NTAwMDAgMjM3MDAwMCAwIDAKJU5STmF0
+aXZlUGF0aDogL3NwaGVybS9pbWFnZXMvZXh0T2JqL0luQ29weS8xLzMvNC8xLzIwMTMwNDA5LzY4
+L09CSjQyMjkyXzUuSUNNTAolTlJOYXRpdmVBcHA6IEluQ29weQolTlJPYmplY3RFbmQK</obj_content>
+                     <copy_lay_mode type="Integer">0</copy_lay_mode>
+                     <init_lay_mode type="Integer">0</init_lay_mode>
+                     <version_ts type="Date">Apr 11, 2013</version_ts>
+                     <first_linked type="Boolean">true</first_linked>
+                     <sp_lay_id type="Integer">0</sp_lay_id>
+                     <mediatype type="String">ncm-layout</mediatype>
+                     <extra-properties/>
+                     <objects-of-a-ncm-layout count="1">
+                        <ncm-object classversion="1.0" pk="42292:62999:ALT1">
+                           <pubnumber type="String"/>
+                           <obj_id type="Integer">42292</obj_id>
+                           <level id="3.4.1.0.0" level="3" name="1_CURRENT" path="NP/NEWS/1_CURRENT"
+                                  type="Object,HasDate"/>
+                           <name type="String">MARKCHANTEST_TEXT1</name>
+                           <unique_name_key type="String">3.4.1.0.0</unique_name_key>
+                           <ncm-type-property data-type="InCopy" is-external="true" name="obj_type" type="NCMType">
+                              <object-type histories="50" id="1" name="TEXT">
+                                 <initial-status>
+                                    <status id="9" name="STORY_NEW"/>
+                                 </initial-status>
+                              </object-type>
+                           </ncm-type-property>
+                           <exp_pubdate type="Date">Apr 9, 2013</exp_pubdate>
+                           <exp_pubdate_to type="Date">Apr 9, 2013</exp_pubdate_to>
+                           <exp_pubdate_days type="Integer">0</exp_pubdate_days>
+                           <edition id="68" master-edition-name="*****" mnemonic="1ST" name="FIRST" nm="1ST"
+                                    time-name="FIRST"
+                                    zone-name="MAIN">
+                              <newspaper-level level-path="NP">
+                                 <level id="3.0.0.0.0" level="1" name="NP" path="NP" type="Newspaper,AllCatalogs"/>
+                              </newspaper-level>
+                              <page-level level-path="">
+                                 <level id="0.0.0.0.0" level="0" name="ROOT" path="" type="AllCatalogs"/>
+                              </page-level>
+                           </edition>
+                           <purge_obj_id type="Integer">0</purge_obj_id>
+                           <is_deleted type="Boolean">false</is_deleted>
+                           <creator type="NCMUser">
+                              <id>863</id>
+                              <name>LIMBHK</name>
+                              <type>ITD</type>
+                           </creator>
+                           <creation_ts type="Date">Apr 8, 2013</creation_ts>
+                           <modifier type="NCMUser">
+                              <id>1644</id>
+                              <name>CUSTOM</name>
+                              <type> </type>
+                           </modifier>
+                           <modifier_ts type="Date">Apr 11, 2013</modifier_ts>
+                           <modifier_ws type="Integer">754</modifier_ws>
+                           <modifying type="NCMUser"/>
+                           <modifying_ws type="Integer">0</modifying_ws>
+                           <modifying_app type="Short">0</modifying_app>
+                           <is_locked type="Boolean">false</is_locked>
+                           <lock_type type="Short">0</lock_type>
+                           <hermes_version type="Integer">0</hermes_version>
+                           <storage_format type="Integer">1</storage_format>
+                           <priority type="Integer">0</priority>
+                           <real_chars type="Integer">1263</real_chars>
+                           <parent_id type="Integer">0</parent_id>
+                           <department_id type="Integer">1</department_id>
+                           <last_update_ts type="Date">Apr 8, 2013</last_update_ts>
+                           <property name="retention_time" type="Integer">0</property>
+                           <version type="Integer">0</version>
+                           <content_version type="Integer">0</content_version>
+                           <content_modifier type="NCMUser">
+                              <id>1644</id>
+                              <name>CUSTOM</name>
+                              <type> </type>
+                           </content_modifier>
+                           <content_modifier_ts type="Date">Apr 11, 2013</content_modifier_ts>
+                           <content-property name="adoby_incopy" type="NCMIncopy">
+                              <file-property name="hermes_file" type="File">
+                                 <file-name>OBJ42292_5.ICML</file-name>
+                                 <original-file href="http://sun115:8080/ncm/dispatcher?auth=QkFUQ0g6QkFUQ0g=&amp;url=/ncm/file?file=/spherm/images/extObj/InCopy/1/3/4/1/20130409/68/OBJ42292_5.ICML">
+                                    <server-path>/spherm/images/extObj/InCopy/1/3/4/1/20130409/68/OBJ42292_5.ICML</server-path>
+                                 </original-file>
+                              </file-property>
+                              <flat-content>Abandoned as a baby in 1973 in Seoul, she was<BR/>adopted by a French couple six months later from<BR/>an orphanage and moved to France.<BR/>Yesterday was the first time Ms Pellerin, 39, had<BR/>returned to her homeland.<BR/>Her unusual success story is a source of public<BR/>pride, admiration and curiosity.<BR/>“On a personal level, it’s true that I’m excited,”<BR/>Ms Pellerin told Korean newspaper Chosun Ilbo in<BR/>an interview published before her arrival.<BR/>“I feel very proud to set foot in South Korea as a<BR/>government minister of France,” she added.<BR/>It is a working visit for Ms Pellerin, the junior<BR/>minister for small and medium enterprises, innovation,<BR/>and the digital economy. She will meet President<BR/>Park Geun Hye and top officials of major conglomerates<BR/>Samsung and Hyundai, AFP reported.<BR/>But the South Korean public is more interested<BR/>in Ms Pellerin herself and, in particular, her ethnic<BR/>roots.<BR/>Her appointment last year as a minister in President<BR/>Francois Hollande’s government made the<BR/>front-page news in South Korea, and spawned a<BR/>number of TV specials about her life.<BR/>Nationalist elements in Korea have played up her<BR/>ethnicity as a factor in her success; while others<BR/>have said her appointment was a testament to tolerance<BR/>for South Korea, where there is still substantial<BR/>discrimination against immigrants.</flat-content>
+                              <content-property imagetype="TIFF" name="hermes_image" type="NCMImage">
+                                 <original-file href="http://sun115:8080/ncm/dispatcher?auth=QkFUQ0g6QkFUQ0g=&amp;url=/ncm/file?file=/spherm/images/extObj/InCopy/1/3/4/1/20130409/68/OBJ42292_5.ICML"/>
+                                 <file-property name="hermes_image" type="NCMImage">
+                                    <file-name>OBJ42292_5.JPG</file-name>
+                                    <original-file href="http://sun115:8080/ncm/dispatcher?auth=QkFUQ0g6QkFUQ0g=&amp;url=/ncm/file?file=/spherm/images/extObj/InCopy/1/3/4/1/20130409/68/OBJ42292_5.JPG">
+                                       <server-path>/spherm/images/extObj/InCopy/1/3/4/1/20130409/68/OBJ42292_5.JPG</server-path>
+                                    </original-file>
+                                    <medium-preview href="http://sun115:8080/ncm/dispatcher?auth=QkFUQ0g6QkFUQ0g=&amp;url=/ncm/file?file=/spherm/images/extObj/InCopy/1/3/4/1/20130409/68/OBJ42292_5.low">
+                                       <server-path>/spherm/images/extObj/InCopy/1/3/4/1/20130409/68/OBJ42292_5.low</server-path>
+                                    </medium-preview>
+                                    <low-preview href="http://sun115:8080/ncm/dispatcher?auth=QkFUQ0g6QkFUQ0g=&amp;url=/ncm/file?file=/spherm/images/extObj/InCopy/1/3/4/1/20130409/68/OBJ42292_5.thn">
+                                       <server-path>/spherm/images/extObj/InCopy/1/3/4/1/20130409/68/OBJ42292_5.thn</server-path>
+                                    </low-preview>
+                                 </file-property>
+                                 <image-size type="NCMRect" unit="Pixel">
+                                    <width>357.0</width>
+                                    <height>567.0</height>
+                                 </image-size>
+                                 <original-image-size type="NCMRect" unit="PSP">
+                                    <width>357.0</width>
+                                    <height>567.0</height>
+                                 </original-image-size>
+                                 <crop-rect bottom="567" left="0" right="357" top="0"/>
+                                 <img-position llx="0.0" lly="0.0" lrx="357.0" lry="0.0" ulx="0.0" uly="567.0" urx="357.0"
+                                               ury="567.0"/>
+                                 <xy-transf crop-off-x="0.0" crop-off-y="0.0" dim-x="357.0" dim-y="567.0" flip-x="false"
+                                            flip-y="false"
+                                            norg-x="0.0"
+                                            norg-y="0.0"
+                                            rotate="0.0"
+                                            scale-x="100.0"
+                                            scale-y="100.0"
+                                            skew="0.0"/>
+                                 <bounding-box bottom="567.0" left="0.0" right="357.0" top="0.0"/>
+                              </content-property>
+                           </content-property>
+                           <copy_obj_id type="Integer">0</copy_obj_id>
+                           <copy_obj_mode type="Integer">0</copy_obj_mode>
+                           <variant_of_obj_id type="Integer">0</variant_of_obj_id>
+                           <variant_type id="0" name=""/>
+                           <numb_of_variants type="Integer">0</numb_of_variants>
+                           <relation_obj_id type="Integer">0</relation_obj_id>
+                           <sp_id type="Integer">42288</sp_id>
+                           <numb_of_sp_objs type="Integer">0</numb_of_sp_objs>
+                           <relation_type type="Integer">0</relation_type>
+                           <exp_page_number type="Integer">0</exp_page_number>
+                           <n_links type="Integer">1</n_links>
+                           <template_id type="Integer">262</template_id>
+                           <convert-property format="Neutral">
+                              <story format="PadXml" version="5.1">
+                                 <style>
+                                    <par_style color="000000" default="false" font-family="Utopia" font-size="9.0"
+                                               name="Text:Body Text:Text"/>
+                                    <char_style color="000000" font-family="" font-size="0.0" name="[No character style]"/>
+                                 </style>
+                                 <par name="Text:Body Text:Text">Abandoned as a baby in 1973 in Seoul, she was
+adopted by a French couple six months later from
+an orphanage and moved to France.
+Yesterday was the first time Ms Pellerin, 39, had
+returned to her homeland.
+Her unusual success story is a source of public
+pride, admiration and curiosity.
+“On a personal level, it’s true that I’m excited,”
+Ms Pellerin told Korean newspaper Chosun Ilbo in
+an interview published before her arrival.
+“I feel very proud to set foot in South Korea as a
+government minister of France,” she added.
+It is a working visit for Ms Pellerin, the junior
+minister for small and medium enterprises, innovation,
+and the digital economy. She will meet President
+Park Geun Hye and top officials of major conglomerates
+Samsung and Hyundai, AFP reported.
+But the South Korean public is more interested
+in Ms Pellerin herself and, in particular, her ethnic
+roots.
+Her appointment last year as a minister in President
+Francois Hollande’s government made the
+front-page news in South Korea, and spawned a
+number of TV specials about her life.
+Nationalist elements in Korea have played up her
+ethnicity as a factor in her success; while others
+have said her appointment was a testament to tolerance
+for South Korea, where there is still substantial
+discrimination against immigrants.</par>
+                              </story>
+                           </convert-property>
+                           <data_type type="String">InCopy</data_type>
+                           <init_obj_mode type="Integer">0</init_obj_mode>
+                           <upd_relevance type="Short">0</upd_relevance>
+                           <flags type="Integer">0</flags>
+                           <orig_obj_id type="Integer">0</orig_obj_id>
+                           <size_graphical_file type="Long">-1</size_graphical_file>
+                           <size_native_file type="Long">-1</size_native_file>
+                           <property name="copy_infos" type="NCMCopyInfo">0-0-0-0-0-0</property>
+                           <mediatype type="String">ncm-object-1-InCopy</mediatype>
+                           <is_object_link type="Boolean">false</is_object_link>
+                           <allowed_pagination type="Boolean">true</allowed_pagination>
+                           <extra-properties/>
+                        </ncm-object>
+                     </objects-of-a-ncm-layout>
+                  </ncm-layout>
+                  <ncm-layout classversion="1.0" pk="42289:62996:ALT1">
+                     <dummy_obj_id type="Integer">0</dummy_obj_id>
+                     <edition id="68" master-edition-name="*****" mnemonic="1ST" name="FIRST" nm="1ST"
+                              time-name="FIRST"
+                              zone-name="MAIN">
+                        <newspaper-level level-path="NP">
+                           <level id="3.0.0.0.0" level="1" name="NP" path="NP" type="Newspaper,AllCatalogs"/>
+                        </newspaper-level>
+                        <page-level level-path="">
+                           <level id="0.0.0.0.0" level="0" name="ROOT" path="" type="AllCatalogs"/>
+                        </page-level>
+                     </edition>
+                     <is_inpage type="Boolean">true</is_inpage>
+                     <obj_id type="Integer">42289</obj_id>
+                     <lay_id type="Integer">62996</lay_id>
+                     <status type="NCMStatus">
+                        <status id="12" name="STORY_FINAL"/>
+                        <extended-status type="Integer">66</extended-status>
+                        <attribute type="Integer">4</attribute>
+                        <complex-status type="Integer">1</complex-status>
+                        <sendto type="list">
+                           <sendto>0</sendto>
+                        </sendto>
+                     </status>
+                     <ext_status type="String">66</ext_status>
+                     <edition id="68" master-edition-name="*****" mnemonic="1ST" name="FIRST" nm="1ST"
+                              time-name="FIRST"
+                              zone-name="MAIN">
+                        <newspaper-level level-path="NP">
+                           <level id="3.0.0.0.0" level="1" name="NP" path="NP" type="Newspaper,AllCatalogs"/>
+                        </newspaper-level>
+                        <page-level level-path="">
+                           <level id="0.0.0.0.0" level="0" name="ROOT" path="" type="AllCatalogs"/>
+                        </page-level>
+                     </edition>
+                     <reference type="String">A</reference>
+                     <page_id type="Integer">14658</page_id>
+                     <page_name type="String">NPS-002</page_name>
+                     <sub_reference type="Integer">0</sub_reference>
+                     <pub_date type="Date">Mar 11, 2013</pub_date>
+                     <jump_sequence type="Integer">0</jump_sequence>
+                     <level id="3.4.3.0.0" level="3" name="PAGES" path="NP/NEWS/PAGES" type="Page,HasDate"/>
+                     <property name="msendto" type="NCMMultipleSendTo">0</property>
+                     <ncm-type-property data-type="" is-external="false" name="lay_type" type="NCMType">
+                        <object-type histories="50" id="2" name="HEADLINE">
+                           <initial-status>
+                              <status id="9" name="STORY_NEW"/>
+                           </initial-status>
+                        </object-type>
+                     </ncm-type-property>
+                     <hermes_version type="Integer">0</hermes_version>
+                     <real_size type="Integer">520</real_size>
+                     <newflag type="Integer">128</newflag>
+                     <real_lines type="Integer">1</real_lines>
+                     <priority type="Short">0</priority>
+                     <format type="String">InCopy</format>
+                     <mandatory type="Short">0</mandatory>
+                     <unique_alt_id type="Integer">1</unique_alt_id>
+                     <surface type="Integer">16949</surface>
+                     <agenda_id type="Integer">0</agenda_id>
+                     <copy_lay_id type="Integer">0</copy_lay_id>
+                     <assignto type="Integer">0</assignto>
+                     <hermes-layout name="lay_rect" type="NCMLayBoundRect" units="Pica">
+                        <bounding-rect depth="98.2" lay-lines="1" width="327.2" xpos="0.0" ypos="87.4"/>
+                     </hermes-layout>
+                     <attribute type="Integer">4</attribute>
+                     <obj_crc type="Integer">0</obj_crc>
+                     <obj_content type="String">AQFAAP8N1wMdAgAAAAAAAAolTlJPYmplY3Q6IFRJRkYKJUFMREltYWdlUmVzb2x1dGlvbjogNzIu
+MDAwMDAwIDcyLjAwMDAwMAolJUJvdW5kaW5nQm94OiAwIDAgMzU3LjAwMDAwMCA5OC4wMDAwMDAK
+JU5ST3JpZ1Jhc3RlclNpemU6IDM1Ny4wMDAwMDAgOTguMDAwMDAwCiVOUkZpbGVOYW1lOiAvc3Bo
+ZXJtL2ltYWdlcy9leHRPYmovSW5Db3B5LzIvMy80LzEvMjAxMzA0MDkvNjgvT0JKNDIyODlfNS5K
+UEcKJU5SQXJjaGl2ZTogCiVOUkNsaXBQYXRoRmxhZzogMAolTlJJbWFnZURpbWVuc2lvbnM6IDM1
+NyA5OAolTlJJbWFnZUNyb3BSZWN0OiAwIDAgMzU3IDk4CiVOUkltYWdlUG9zaXRpb246IDAgMCAw
+IDk4LjAwMDAwMCAzNTcuMDAwMDAwIDk4LjAwMDAwMCAzNTcuMDAwMDAwIDAKJU5SWFlUcmFuc2Y6
+IDEwMDAwIDEwMDAwIDAgMCAwIDAgMCAwIDE2NTAwMDAgNjIwMDAwIDAgMAolTlJOYXRpdmVQYXRo
+OiAvc3BoZXJtL2ltYWdlcy9leHRPYmovSW5Db3B5LzIvMy80LzEvMjAxMzA0MDkvNjgvT0JKNDIy
+ODlfNS5JQ01MCiVOUk5hdGl2ZUFwcDogSW5Db3B5CiVOUk9iamVjdEVuZAo=</obj_content>
+                     <copy_lay_mode type="Integer">0</copy_lay_mode>
+                     <init_lay_mode type="Integer">0</init_lay_mode>
+                     <version_ts type="Date">Apr 11, 2013</version_ts>
+                     <first_linked type="Boolean">true</first_linked>
+                     <sp_lay_id type="Integer">0</sp_lay_id>
+                     <mediatype type="String">ncm-layout</mediatype>
+                     <extra-properties/>
+                     <objects-of-a-ncm-layout count="1">
+                        <ncm-object classversion="1.0" pk="42289:62996:ALT1">
+                           <pubnumber type="String"/>
+                           <obj_id type="Integer">42289</obj_id>
+                           <level id="3.4.1.0.0" level="3" name="1_CURRENT" path="NP/NEWS/1_CURRENT"
+                                  type="Object,HasDate"/>
+                           <name type="String">MARKCHANTEST_HEADLINE1</name>
+                           <unique_name_key type="String">3.4.1.0.0</unique_name_key>
+                           <ncm-type-property data-type="InCopy" is-external="true" name="obj_type" type="NCMType">
+                              <object-type histories="50" id="2" name="HEADLINE">
+                                 <initial-status>
+                                    <status id="9" name="STORY_NEW"/>
+                                 </initial-status>
+                              </object-type>
+                           </ncm-type-property>
+                           <exp_pubdate type="Date">Apr 9, 2013</exp_pubdate>
+                           <exp_pubdate_to type="Date">Apr 9, 2013</exp_pubdate_to>
+                           <exp_pubdate_days type="Integer">0</exp_pubdate_days>
+                           <edition id="68" master-edition-name="*****" mnemonic="1ST" name="FIRST" nm="1ST"
+                                    time-name="FIRST"
+                                    zone-name="MAIN">
+                              <newspaper-level level-path="NP">
+                                 <level id="3.0.0.0.0" level="1" name="NP" path="NP" type="Newspaper,AllCatalogs"/>
+                              </newspaper-level>
+                              <page-level level-path="">
+                                 <level id="0.0.0.0.0" level="0" name="ROOT" path="" type="AllCatalogs"/>
+                              </page-level>
+                           </edition>
+                           <purge_obj_id type="Integer">0</purge_obj_id>
+                           <is_deleted type="Boolean">false</is_deleted>
+                           <creator type="NCMUser">
+                              <id>863</id>
+                              <name>LIMBHK</name>
+                              <type>ITD</type>
+                           </creator>
+                           <creation_ts type="Date">Apr 8, 2013</creation_ts>
+                           <modifier type="NCMUser">
+                              <id>1644</id>
+                              <name>CUSTOM</name>
+                              <type> </type>
+                           </modifier>
+                           <modifier_ts type="Date">Apr 11, 2013</modifier_ts>
+                           <modifier_ws type="Integer">754</modifier_ws>
+                           <modifying type="NCMUser"/>
+                           <modifying_ws type="Integer">0</modifying_ws>
+                           <modifying_app type="Short">0</modifying_app>
+                           <is_locked type="Boolean">false</is_locked>
+                           <lock_type type="Short">0</lock_type>
+                           <hermes_version type="Integer">0</hermes_version>
+                           <storage_format type="Integer">1</storage_format>
+                           <priority type="Integer">0</priority>
+                           <real_chars type="Integer">13</real_chars>
+                           <parent_id type="Integer">0</parent_id>
+                           <department_id type="Integer">1</department_id>
+                           <last_update_ts type="Date">Apr 8, 2013</last_update_ts>
+                           <property name="retention_time" type="Integer">0</property>
+                           <version type="Integer">0</version>
+                           <content_version type="Integer">0</content_version>
+                           <content_modifier type="NCMUser">
+                              <id>1644</id>
+                              <name>CUSTOM</name>
+                              <type> </type>
+                           </content_modifier>
+                           <content_modifier_ts type="Date">Apr 11, 2013</content_modifier_ts>
+                           <content-property name="adoby_incopy" type="NCMIncopy">
+                              <file-property name="hermes_file" type="File">
+                                 <file-name>OBJ42289_5.ICML</file-name>
+                                 <original-file href="http://sun115:8080/ncm/dispatcher?auth=QkFUQ0g6QkFUQ0g=&amp;url=/ncm/file?file=/spherm/images/extObj/InCopy/2/3/4/1/20130409/68/OBJ42289_5.ICML">
+                                    <server-path>/spherm/images/extObj/InCopy/2/3/4/1/20130409/68/OBJ42289_5.ICML</server-path>
+                                 </original-file>
+                              </file-property>
+                              <flat-content>metadata test</flat-content>
+                              <content-property imagetype="TIFF" name="hermes_image" type="NCMImage">
+                                 <original-file href="http://sun115:8080/ncm/dispatcher?auth=QkFUQ0g6QkFUQ0g=&amp;url=/ncm/file?file=/spherm/images/extObj/InCopy/2/3/4/1/20130409/68/OBJ42289_5.ICML"/>
+                                 <file-property name="hermes_image" type="NCMImage">
+                                    <file-name>OBJ42289_5.JPG</file-name>
+                                    <original-file href="http://sun115:8080/ncm/dispatcher?auth=QkFUQ0g6QkFUQ0g=&amp;url=/ncm/file?file=/spherm/images/extObj/InCopy/2/3/4/1/20130409/68/OBJ42289_5.JPG">
+                                       <server-path>/spherm/images/extObj/InCopy/2/3/4/1/20130409/68/OBJ42289_5.JPG</server-path>
+                                    </original-file>
+                                    <medium-preview href="http://sun115:8080/ncm/dispatcher?auth=QkFUQ0g6QkFUQ0g=&amp;url=/ncm/file?file=/spherm/images/extObj/InCopy/2/3/4/1/20130409/68/OBJ42289_5.low">
+                                       <server-path>/spherm/images/extObj/InCopy/2/3/4/1/20130409/68/OBJ42289_5.low</server-path>
+                                    </medium-preview>
+                                    <low-preview href="http://sun115:8080/ncm/dispatcher?auth=QkFUQ0g6QkFUQ0g=&amp;url=/ncm/file?file=/spherm/images/extObj/InCopy/2/3/4/1/20130409/68/OBJ42289_5.thn">
+                                       <server-path>/spherm/images/extObj/InCopy/2/3/4/1/20130409/68/OBJ42289_5.thn</server-path>
+                                    </low-preview>
+                                 </file-property>
+                                 <image-size type="NCMRect" unit="Pixel">
+                                    <width>357.0</width>
+                                    <height>98.0</height>
+                                 </image-size>
+                                 <original-image-size type="NCMRect" unit="PSP">
+                                    <width>357.0</width>
+                                    <height>98.0</height>
+                                 </original-image-size>
+                                 <crop-rect bottom="98" left="0" right="357" top="0"/>
+                                 <img-position llx="0.0" lly="0.0" lrx="357.0" lry="0.0" ulx="0.0" uly="98.0" urx="357.0"
+                                               ury="98.0"/>
+                                 <xy-transf crop-off-x="0.0" crop-off-y="0.0" dim-x="357.0" dim-y="98.0" flip-x="false"
+                                            flip-y="false"
+                                            norg-x="0.0"
+                                            norg-y="0.0"
+                                            rotate="0.0"
+                                            scale-x="100.0"
+                                            scale-y="100.0"
+                                            skew="0.0"/>
+                                 <bounding-box bottom="98.0" left="0.0" right="357.0" top="0.0"/>
+                              </content-property>
+                           </content-property>
+                           <copy_obj_id type="Integer">0</copy_obj_id>
+                           <copy_obj_mode type="Integer">0</copy_obj_mode>
+                           <variant_of_obj_id type="Integer">0</variant_of_obj_id>
+                           <variant_type id="0" name=""/>
+                           <numb_of_variants type="Integer">0</numb_of_variants>
+                           <relation_obj_id type="Integer">0</relation_obj_id>
+                           <sp_id type="Integer">42288</sp_id>
+                           <numb_of_sp_objs type="Integer">0</numb_of_sp_objs>
+                           <relation_type type="Integer">0</relation_type>
+                           <exp_page_number type="Integer">0</exp_page_number>
+                           <n_links type="Integer">1</n_links>
+                           <template_id type="Integer">262</template_id>
+                           <convert-property format="Neutral">
+                              <story format="PadXml" version="5.1">
+                                 <style>
+                                    <par_style color="000000" default="false" font-family="Rockwell" font-size="55.0"
+                                               name="Headline:News + Sunday:News_55"/>
+                                    <char_style color="000000" font-family="" font-size="0.0" name="[No character style]"/>
+                                 </style>
+                                 <par name="Headline:News + Sunday:News_55">metadata test</par>
+                              </story>
+                           </convert-property>
+                           <data_type type="String">InCopy</data_type>
+                           <init_obj_mode type="Integer">0</init_obj_mode>
+                           <upd_relevance type="Short">0</upd_relevance>
+                           <flags type="Integer">0</flags>
+                           <orig_obj_id type="Integer">0</orig_obj_id>
+                           <size_graphical_file type="Long">-1</size_graphical_file>
+                           <size_native_file type="Long">-1</size_native_file>
+                           <property name="copy_infos" type="NCMCopyInfo">0-0-0-0-0-0</property>
+                           <mediatype type="String">ncm-object-2-InCopy</mediatype>
+                           <is_object_link type="Boolean">false</is_object_link>
+                           <allowed_pagination type="Boolean">true</allowed_pagination>
+                           <extra-properties/>
+                        </ncm-object>
+                     </objects-of-a-ncm-layout>
+                  </ncm-layout>
+                  <ncm-layout classversion="1.0" pk="42291:62998:ALT1">
+                     <dummy_obj_id type="Integer">0</dummy_obj_id>
+                     <edition id="68" master-edition-name="*****" mnemonic="1ST" name="FIRST" nm="1ST"
+                              time-name="FIRST"
+                              zone-name="MAIN">
+                        <newspaper-level level-path="NP">
+                           <level id="3.0.0.0.0" level="1" name="NP" path="NP" type="Newspaper,AllCatalogs"/>
+                        </newspaper-level>
+                        <page-level level-path="">
+                           <level id="0.0.0.0.0" level="0" name="ROOT" path="" type="AllCatalogs"/>
+                        </page-level>
+                     </edition>
+                     <is_inpage type="Boolean">true</is_inpage>
+                     <obj_id type="Integer">42291</obj_id>
+                     <lay_id type="Integer">62998</lay_id>
+                     <status type="NCMStatus">
+                        <status id="12" name="STORY_FINAL"/>
+                        <extended-status type="Integer">66</extended-status>
+                        <attribute type="Integer">4</attribute>
+                        <complex-status type="Integer">1</complex-status>
+                        <sendto type="list">
+                           <sendto>0</sendto>
+                        </sendto>
+                     </status>
+                     <ext_status type="String">66</ext_status>
+                     <edition id="68" master-edition-name="*****" mnemonic="1ST" name="FIRST" nm="1ST"
+                              time-name="FIRST"
+                              zone-name="MAIN">
+                        <newspaper-level level-path="NP">
+                           <level id="3.0.0.0.0" level="1" name="NP" path="NP" type="Newspaper,AllCatalogs"/>
+                        </newspaper-level>
+                        <page-level level-path="">
+                           <level id="0.0.0.0.0" level="0" name="ROOT" path="" type="AllCatalogs"/>
+                        </page-level>
+                     </edition>
+                     <reference type="String">A</reference>
+                     <page_id type="Integer">14658</page_id>
+                     <page_name type="String">NPS-002</page_name>
+                     <sub_reference type="Integer">0</sub_reference>
+                     <pub_date type="Date">Mar 11, 2013</pub_date>
+                     <jump_sequence type="Integer">0</jump_sequence>
+                     <level id="3.4.3.0.0" level="3" name="PAGES" path="NP/NEWS/PAGES" type="Page,HasDate"/>
+                     <property name="msendto" type="NCMMultipleSendTo">0</property>
+                     <ncm-type-property data-type="" is-external="false" name="lay_type" type="NCMType">
+                        <object-type histories="50" id="3" name="CAPTION">
+                           <initial-status>
+                              <status id="9" name="STORY_NEW"/>
+                           </initial-status>
+                        </object-type>
+                     </ncm-type-property>
+                     <hermes_version type="Integer">0</hermes_version>
+                     <real_size type="Integer">440</real_size>
+                     <newflag type="Integer">128</newflag>
+                     <real_lines type="Integer">4</real_lines>
+                     <priority type="Short">0</priority>
+                     <format type="String">InCopy</format>
+                     <mandatory type="Short">0</mandatory>
+                     <unique_alt_id type="Integer">1</unique_alt_id>
+                     <surface type="Integer">6228</surface>
+                     <agenda_id type="Integer">0</agenda_id>
+                     <copy_lay_id type="Integer">0</copy_lay_id>
+                     <assignto type="Integer">0</assignto>
+                     <hermes-layout name="lay_rect" type="NCMLayBoundRect" units="Pica">
+                        <bounding-rect depth="43.4" lay-lines="4" width="173.1" xpos="0.0" ypos="259.3"/>
+                     </hermes-layout>
+                     <attribute type="Integer">4</attribute>
+                     <obj_crc type="Integer">0</obj_crc>
+                     <obj_content type="String">AQFAAL4GrwEcAgAAAAAAAAolTlJPYmplY3Q6IFRJRkYKJUFMREltYWdlUmVzb2x1dGlvbjogNzIu
+MDAwMDAwIDcyLjAwMDAwMAolJUJvdW5kaW5nQm94OiAwIDAgMTcyLjAwMDAwMCA0My4wMDAwMDAK
+JU5ST3JpZ1Jhc3RlclNpemU6IDE3Mi4wMDAwMDAgNDMuMDAwMDAwCiVOUkZpbGVOYW1lOiAvc3Bo
+ZXJtL2ltYWdlcy9leHRPYmovSW5Db3B5LzMvMy80LzEvMjAxMzA0MDkvNjgvT0JKNDIyOTFfNS5K
+UEcKJU5SQXJjaGl2ZTogCiVOUkNsaXBQYXRoRmxhZzogMAolTlJJbWFnZURpbWVuc2lvbnM6IDE3
+MiA0MwolTlJJbWFnZUNyb3BSZWN0OiAwIDAgMTcyIDQzCiVOUkltYWdlUG9zaXRpb246IDAgMCAw
+IDQzLjAwMDAwMCAxNzIuMDAwMDAwIDQzLjAwMDAwMCAxNzIuMDAwMDAwIDAKJU5SWFlUcmFuc2Y6
+IDEwMDAwIDEwMDAwIDAgMCAwIDAgMCAwIGFjMDAwMCAyYjAwMDAgMCAwCiVOUk5hdGl2ZVBhdGg6
+IC9zcGhlcm0vaW1hZ2VzL2V4dE9iai9JbkNvcHkvMy8zLzQvMS8yMDEzMDQwOS82OC9PQko0MjI5
+MV81LklDTUwKJU5STmF0aXZlQXBwOiBJbkNvcHkKJU5ST2JqZWN0RW5kCg==</obj_content>
+                     <copy_lay_mode type="Integer">0</copy_lay_mode>
+                     <init_lay_mode type="Integer">0</init_lay_mode>
+                     <version_ts type="Date">Apr 11, 2013</version_ts>
+                     <first_linked type="Boolean">true</first_linked>
+                     <sp_lay_id type="Integer">0</sp_lay_id>
+                     <mediatype type="String">ncm-layout</mediatype>
+                     <extra-properties/>
+                     <objects-of-a-ncm-layout count="1">
+                        <ncm-object classversion="1.0" pk="42291:62998:ALT1">
+                           <pubnumber type="String"/>
+                           <obj_id type="Integer">42291</obj_id>
+                           <level id="3.4.1.0.0" level="3" name="1_CURRENT" path="NP/NEWS/1_CURRENT"
+                                  type="Object,HasDate"/>
+                           <name type="String">MARKCHANTEST_CAPTION1</name>
+                           <unique_name_key type="String">3.4.1.0.0</unique_name_key>
+                           <ncm-type-property data-type="InCopy" is-external="true" name="obj_type" type="NCMType">
+                              <object-type histories="50" id="3" name="CAPTION">
+                                 <initial-status>
+                                    <status id="9" name="STORY_NEW"/>
+                                 </initial-status>
+                              </object-type>
+                           </ncm-type-property>
+                           <exp_pubdate type="Date">Apr 9, 2013</exp_pubdate>
+                           <exp_pubdate_to type="Date">Apr 9, 2013</exp_pubdate_to>
+                           <exp_pubdate_days type="Integer">0</exp_pubdate_days>
+                           <edition id="68" master-edition-name="*****" mnemonic="1ST" name="FIRST" nm="1ST"
+                                    time-name="FIRST"
+                                    zone-name="MAIN">
+                              <newspaper-level level-path="NP">
+                                 <level id="3.0.0.0.0" level="1" name="NP" path="NP" type="Newspaper,AllCatalogs"/>
+                              </newspaper-level>
+                              <page-level level-path="">
+                                 <level id="0.0.0.0.0" level="0" name="ROOT" path="" type="AllCatalogs"/>
+                              </page-level>
+                           </edition>
+                           <purge_obj_id type="Integer">0</purge_obj_id>
+                           <is_deleted type="Boolean">false</is_deleted>
+                           <creator type="NCMUser">
+                              <id>863</id>
+                              <name>LIMBHK</name>
+                              <type>ITD</type>
+                           </creator>
+                           <creation_ts type="Date">Apr 8, 2013</creation_ts>
+                           <modifier type="NCMUser">
+                              <id>1644</id>
+                              <name>CUSTOM</name>
+                              <type> </type>
+                           </modifier>
+                           <modifier_ts type="Date">Apr 11, 2013</modifier_ts>
+                           <modifier_ws type="Integer">754</modifier_ws>
+                           <modifying type="NCMUser"/>
+                           <modifying_ws type="Integer">0</modifying_ws>
+                           <modifying_app type="Short">0</modifying_app>
+                           <is_locked type="Boolean">false</is_locked>
+                           <lock_type type="Short">0</lock_type>
+                           <hermes_version type="Integer">0</hermes_version>
+                           <storage_format type="Integer">1</storage_format>
+                           <priority type="Integer">0</priority>
+                           <real_chars type="Integer">88</real_chars>
+                           <parent_id type="Integer">0</parent_id>
+                           <department_id type="Integer">1</department_id>
+                           <last_update_ts type="Date">Apr 8, 2013</last_update_ts>
+                           <property name="retention_time" type="Integer">0</property>
+                           <version type="Integer">0</version>
+                           <content_version type="Integer">0</content_version>
+                           <content_modifier type="NCMUser">
+                              <id>1644</id>
+                              <name>CUSTOM</name>
+                              <type> </type>
+                           </content_modifier>
+                           <content_modifier_ts type="Date">Apr 11, 2013</content_modifier_ts>
+                           <content-property name="adoby_incopy" type="NCMIncopy">
+                              <file-property name="hermes_file" type="File">
+                                 <file-name>OBJ42291_5.ICML</file-name>
+                                 <original-file href="http://sun115:8080/ncm/dispatcher?auth=QkFUQ0g6QkFUQ0g=&amp;url=/ncm/file?file=/spherm/images/extObj/InCopy/3/3/4/1/20130409/68/OBJ42291_5.ICML">
+                                    <server-path>/spherm/images/extObj/InCopy/3/3/4/1/20130409/68/OBJ42291_5.ICML</server-path>
+                                 </original-file>
+                              </file-property>
+                              <flat-content>SHE’S COME A LONG WAY: Ms Fleur Pellerin was abandoned by her parents in Seoul, adopted.</flat-content>
+                              <content-property imagetype="TIFF" name="hermes_image" type="NCMImage">
+                                 <original-file href="http://sun115:8080/ncm/dispatcher?auth=QkFUQ0g6QkFUQ0g=&amp;url=/ncm/file?file=/spherm/images/extObj/InCopy/3/3/4/1/20130409/68/OBJ42291_5.ICML"/>
+                                 <file-property name="hermes_image" type="NCMImage">
+                                    <file-name>OBJ42291_5.JPG</file-name>
+                                    <original-file href="http://sun115:8080/ncm/dispatcher?auth=QkFUQ0g6QkFUQ0g=&amp;url=/ncm/file?file=/spherm/images/extObj/InCopy/3/3/4/1/20130409/68/OBJ42291_5.JPG">
+                                       <server-path>/spherm/images/extObj/InCopy/3/3/4/1/20130409/68/OBJ42291_5.JPG</server-path>
+                                    </original-file>
+                                    <medium-preview href="http://sun115:8080/ncm/dispatcher?auth=QkFUQ0g6QkFUQ0g=&amp;url=/ncm/file?file=/spherm/images/extObj/InCopy/3/3/4/1/20130409/68/OBJ42291_5.low">
+                                       <server-path>/spherm/images/extObj/InCopy/3/3/4/1/20130409/68/OBJ42291_5.low</server-path>
+                                    </medium-preview>
+                                    <low-preview href="http://sun115:8080/ncm/dispatcher?auth=QkFUQ0g6QkFUQ0g=&amp;url=/ncm/file?file=/spherm/images/extObj/InCopy/3/3/4/1/20130409/68/OBJ42291_5.thn">
+                                       <server-path>/spherm/images/extObj/InCopy/3/3/4/1/20130409/68/OBJ42291_5.thn</server-path>
+                                    </low-preview>
+                                 </file-property>
+                                 <image-size type="NCMRect" unit="Pixel">
+                                    <width>172.0</width>
+                                    <height>43.0</height>
+                                 </image-size>
+                                 <original-image-size type="NCMRect" unit="PSP">
+                                    <width>172.0</width>
+                                    <height>43.0</height>
+                                 </original-image-size>
+                                 <crop-rect bottom="43" left="0" right="172" top="0"/>
+                                 <img-position llx="0.0" lly="0.0" lrx="172.0" lry="0.0" ulx="0.0" uly="43.0" urx="172.0"
+                                               ury="43.0"/>
+                                 <xy-transf crop-off-x="0.0" crop-off-y="0.0" dim-x="172.0" dim-y="43.0" flip-x="false"
+                                            flip-y="false"
+                                            norg-x="0.0"
+                                            norg-y="0.0"
+                                            rotate="0.0"
+                                            scale-x="100.0"
+                                            scale-y="100.0"
+                                            skew="0.0"/>
+                                 <bounding-box bottom="43.0" left="0.0" right="172.0" top="0.0"/>
+                              </content-property>
+                           </content-property>
+                           <copy_obj_id type="Integer">0</copy_obj_id>
+                           <copy_obj_mode type="Integer">0</copy_obj_mode>
+                           <variant_of_obj_id type="Integer">0</variant_of_obj_id>
+                           <variant_type id="0" name=""/>
+                           <numb_of_variants type="Integer">0</numb_of_variants>
+                           <relation_obj_id type="Integer">0</relation_obj_id>
+                           <sp_id type="Integer">42288</sp_id>
+                           <numb_of_sp_objs type="Integer">0</numb_of_sp_objs>
+                           <relation_type type="Integer">0</relation_type>
+                           <exp_page_number type="Integer">0</exp_page_number>
+                           <n_links type="Integer">1</n_links>
+                           <template_id type="Integer">262</template_id>
+                           <convert-property format="Neutral">
+                              <story format="PadXml" version="5.1">
+                                 <style>
+                                    <par_style color="000000" default="false" font-family="Helvetica Neue" font-size="8.0"
+                                               name="Caption:Lead_In"/>
+                                    <char_style color="000000" font-family="" font-size="0.0" name="[No character style]"/>
+                                    <char_style color="000000" font-family="Rockwell" font-size="11.0" font-style="italic"
+                                                font-weight="bold"
+                                                name="Captions:Lead_In_Colour"/>
+                                    <char_style color="000000" font-family="Helvetica Neue" font-size="10.0" font-weight="bold"
+                                                name="Captions:Caption"/>
+                                    <char_style color="000000" font-family="Helvetica Neue" font-size="8.0"
+                                                name="Captions:Credit_Light"/>
+                                 </style>
+                                 <par name="Caption:Lead_In">SHE’S COME A LONG WAY: Ms Fleur Pellerin was abandoned by her parents in Seoul, adopted.</par>
+                              </story>
+                           </convert-property>
+                           <data_type type="String">InCopy</data_type>
+                           <init_obj_mode type="Integer">0</init_obj_mode>
+                           <upd_relevance type="Short">0</upd_relevance>
+                           <flags type="Integer">0</flags>
+                           <orig_obj_id type="Integer">0</orig_obj_id>
+                           <size_graphical_file type="Long">-1</size_graphical_file>
+                           <size_native_file type="Long">-1</size_native_file>
+                           <property name="copy_infos" type="NCMCopyInfo">0-0-0-0-0-0</property>
+                           <mediatype type="String">ncm-object-3-InCopy</mediatype>
+                           <is_object_link type="Boolean">false</is_object_link>
+                           <allowed_pagination type="Boolean">true</allowed_pagination>
+                           <extra-properties/>
+                        </ncm-object>
+                     </objects-of-a-ncm-layout>
+                  </ncm-layout>
+                  <ncm-layout classversion="1.0" pk="42290:62997:ALT1">
+                     <dummy_obj_id type="Integer">0</dummy_obj_id>
+                     <edition id="68" master-edition-name="*****" mnemonic="1ST" name="FIRST" nm="1ST"
+                              time-name="FIRST"
+                              zone-name="MAIN">
+                        <newspaper-level level-path="NP">
+                           <level id="3.0.0.0.0" level="1" name="NP" path="NP" type="Newspaper,AllCatalogs"/>
+                        </newspaper-level>
+                        <page-level level-path="">
+                           <level id="0.0.0.0.0" level="0" name="ROOT" path="" type="AllCatalogs"/>
+                        </page-level>
+                     </edition>
+                     <is_inpage type="Boolean">true</is_inpage>
+                     <obj_id type="Integer">42290</obj_id>
+                     <lay_id type="Integer">62997</lay_id>
+                     <status type="NCMStatus">
+                        <status id="12" name="STORY_FINAL"/>
+                        <extended-status type="Integer">66</extended-status>
+                        <attribute type="Integer">4</attribute>
+                        <complex-status type="Integer">1</complex-status>
+                        <sendto type="list">
+                           <sendto>0</sendto>
+                        </sendto>
+                     </status>
+                     <ext_status type="String">66</ext_status>
+                     <edition id="68" master-edition-name="*****" mnemonic="1ST" name="FIRST" nm="1ST"
+                              time-name="FIRST"
+                              zone-name="MAIN">
+                        <newspaper-level level-path="NP">
+                           <level id="3.0.0.0.0" level="1" name="NP" path="NP" type="Newspaper,AllCatalogs"/>
+                        </newspaper-level>
+                        <page-level level-path="">
+                           <level id="0.0.0.0.0" level="0" name="ROOT" path="" type="AllCatalogs"/>
+                        </page-level>
+                     </edition>
+                     <reference type="String">A</reference>
+                     <page_id type="Integer">14658</page_id>
+                     <page_name type="String">NPS-002</page_name>
+                     <sub_reference type="Integer">0</sub_reference>
+                     <pub_date type="Date">Mar 11, 2013</pub_date>
+                     <jump_sequence type="Integer">0</jump_sequence>
+                     <level id="3.4.3.0.0" level="3" name="PAGES" path="NP/NEWS/PAGES" type="Page,HasDate"/>
+                     <property name="msendto" type="NCMMultipleSendTo">0</property>
+                     <ncm-type-property data-type="" is-external="false" name="lay_type" type="NCMType">
+                        <object-type histories="50" id="14" name="SUMMARY">
+                           <initial-status>
+                              <status id="9" name="STORY_NEW"/>
+                           </initial-status>
+                        </object-type>
+                     </ncm-type-property>
+                     <hermes_version type="Integer">0</hermes_version>
+                     <real_size type="Integer">600</real_size>
+                     <newflag type="Integer">128</newflag>
+                     <real_lines type="Integer">3</real_lines>
+                     <priority type="Short">0</priority>
+                     <format type="String">InCopy</format>
+                     <mandatory type="Short">0</mandatory>
+                     <unique_alt_id type="Integer">1</unique_alt_id>
+                     <surface type="Integer">7174</surface>
+                     <agenda_id type="Integer">0</agenda_id>
+                     <copy_lay_id type="Integer">0</copy_lay_id>
+                     <assignto type="Integer">0</assignto>
+                     <hermes-layout name="lay_rect" type="NCMLayBoundRect" units="Pica">
+                        <bounding-rect depth="55.7" lay-lines="3" width="173.1" xpos="0.0" ypos="194.6"/>
+                     </hermes-layout>
+                     <attribute type="Integer">4</attribute>
+                     <obj_crc type="Integer">0</obj_crc>
+                     <obj_content type="String">AQFAAL4GKAIeAgAAAAAAAAolTlJPYmplY3Q6IFRJRkYKJUFMREltYWdlUmVzb2x1dGlvbjogNzIu
+MDAwMDAwIDcyLjAwMDAwMAolJUJvdW5kaW5nQm94OiAwIDAgMTcyLjAwMDAwMCA1NS4wMDAwMDAK
+JU5ST3JpZ1Jhc3RlclNpemU6IDE3Mi4wMDAwMDAgNTUuMDAwMDAwCiVOUkZpbGVOYW1lOiAvc3Bo
+ZXJtL2ltYWdlcy9leHRPYmovSW5Db3B5LzE0LzMvNC8xLzIwMTMwNDA5LzY4L09CSjQyMjkwXzUu
+SlBHCiVOUkFyY2hpdmU6IAolTlJDbGlwUGF0aEZsYWc6IDAKJU5SSW1hZ2VEaW1lbnNpb25zOiAx
+NzIgNTUKJU5SSW1hZ2VDcm9wUmVjdDogMCAwIDE3MiA1NQolTlJJbWFnZVBvc2l0aW9uOiAwIDAg
+MCA1NS4wMDAwMDAgMTcyLjAwMDAwMCA1NS4wMDAwMDAgMTcyLjAwMDAwMCAwCiVOUlhZVHJhbnNm
+OiAxMDAwMCAxMDAwMCAwIDAgMCAwIDAgMCBhYzAwMDAgMzcwMDAwIDAgMAolTlJOYXRpdmVQYXRo
+OiAvc3BoZXJtL2ltYWdlcy9leHRPYmovSW5Db3B5LzE0LzMvNC8xLzIwMTMwNDA5LzY4L09CSjQy
+MjkwXzUuSUNNTAolTlJOYXRpdmVBcHA6IEluQ29weQolTlJPYmplY3RFbmQK</obj_content>
+                     <copy_lay_mode type="Integer">0</copy_lay_mode>
+                     <init_lay_mode type="Integer">0</init_lay_mode>
+                     <version_ts type="Date">Apr 11, 2013</version_ts>
+                     <first_linked type="Boolean">true</first_linked>
+                     <sp_lay_id type="Integer">0</sp_lay_id>
+                     <mediatype type="String">ncm-layout</mediatype>
+                     <extra-properties/>
+                     <objects-of-a-ncm-layout count="1">
+                        <ncm-object classversion="1.0" pk="42290:62997:ALT1">
+                           <pubnumber type="String"/>
+                           <obj_id type="Integer">42290</obj_id>
+                           <level id="3.4.1.0.0" level="3" name="1_CURRENT" path="NP/NEWS/1_CURRENT"
+                                  type="Object,HasDate"/>
+                           <name type="String">MARKCHANTEST_SUMMARY1</name>
+                           <unique_name_key type="String">3.4.1.0.0</unique_name_key>
+                           <ncm-type-property data-type="InCopy" is-external="true" name="obj_type" type="NCMType">
+                              <object-type histories="50" id="14" name="SUMMARY">
+                                 <initial-status>
+                                    <status id="9" name="STORY_NEW"/>
+                                 </initial-status>
+                              </object-type>
+                           </ncm-type-property>
+                           <exp_pubdate type="Date">Apr 9, 2013</exp_pubdate>
+                           <exp_pubdate_to type="Date">Apr 9, 2013</exp_pubdate_to>
+                           <exp_pubdate_days type="Integer">0</exp_pubdate_days>
+                           <edition id="68" master-edition-name="*****" mnemonic="1ST" name="FIRST" nm="1ST"
+                                    time-name="FIRST"
+                                    zone-name="MAIN">
+                              <newspaper-level level-path="NP">
+                                 <level id="3.0.0.0.0" level="1" name="NP" path="NP" type="Newspaper,AllCatalogs"/>
+                              </newspaper-level>
+                              <page-level level-path="">
+                                 <level id="0.0.0.0.0" level="0" name="ROOT" path="" type="AllCatalogs"/>
+                              </page-level>
+                           </edition>
+                           <purge_obj_id type="Integer">0</purge_obj_id>
+                           <is_deleted type="Boolean">false</is_deleted>
+                           <creator type="NCMUser">
+                              <id>863</id>
+                              <name>LIMBHK</name>
+                              <type>ITD</type>
+                           </creator>
+                           <creation_ts type="Date">Apr 8, 2013</creation_ts>
+                           <modifier type="NCMUser">
+                              <id>1644</id>
+                              <name>CUSTOM</name>
+                              <type> </type>
+                           </modifier>
+                           <modifier_ts type="Date">Apr 11, 2013</modifier_ts>
+                           <modifier_ws type="Integer">754</modifier_ws>
+                           <modifying type="NCMUser"/>
+                           <modifying_ws type="Integer">0</modifying_ws>
+                           <modifying_app type="Short">0</modifying_app>
+                           <is_locked type="Boolean">false</is_locked>
+                           <lock_type type="Short">0</lock_type>
+                           <hermes_version type="Integer">0</hermes_version>
+                           <storage_format type="Integer">1</storage_format>
+                           <priority type="Integer">0</priority>
+                           <real_chars type="Integer">36</real_chars>
+                           <parent_id type="Integer">0</parent_id>
+                           <department_id type="Integer">1</department_id>
+                           <last_update_ts type="Date">Apr 8, 2013</last_update_ts>
+                           <property name="retention_time" type="Integer">0</property>
+                           <version type="Integer">0</version>
+                           <content_version type="Integer">0</content_version>
+                           <content_modifier type="NCMUser">
+                              <id>1644</id>
+                              <name>CUSTOM</name>
+                              <type> </type>
+                           </content_modifier>
+                           <content_modifier_ts type="Date">Apr 11, 2013</content_modifier_ts>
+                           <content-property name="adoby_incopy" type="NCMIncopy">
+                              <file-property name="hermes_file" type="File">
+                                 <file-name>OBJ42290_5.ICML</file-name>
+                                 <original-file href="http://sun115:8080/ncm/dispatcher?auth=QkFUQ0g6QkFUQ0g=&amp;url=/ncm/file?file=/spherm/images/extObj/InCopy/14/3/4/1/20130409/68/OBJ42290_5.ICML">
+                                    <server-path>/spherm/images/extObj/InCopy/14/3/4/1/20130409/68/OBJ42290_5.ICML</server-path>
+                                 </original-file>
+                              </file-property>
+                              <flat-content>French Minister Fleur Pellerin began</flat-content>
+                              <content-property imagetype="TIFF" name="hermes_image" type="NCMImage">
+                                 <original-file href="http://sun115:8080/ncm/dispatcher?auth=QkFUQ0g6QkFUQ0g=&amp;url=/ncm/file?file=/spherm/images/extObj/InCopy/14/3/4/1/20130409/68/OBJ42290_5.ICML"/>
+                                 <file-property name="hermes_image" type="NCMImage">
+                                    <file-name>OBJ42290_5.JPG</file-name>
+                                    <original-file href="http://sun115:8080/ncm/dispatcher?auth=QkFUQ0g6QkFUQ0g=&amp;url=/ncm/file?file=/spherm/images/extObj/InCopy/14/3/4/1/20130409/68/OBJ42290_5.JPG">
+                                       <server-path>/spherm/images/extObj/InCopy/14/3/4/1/20130409/68/OBJ42290_5.JPG</server-path>
+                                    </original-file>
+                                    <medium-preview href="http://sun115:8080/ncm/dispatcher?auth=QkFUQ0g6QkFUQ0g=&amp;url=/ncm/file?file=/spherm/images/extObj/InCopy/14/3/4/1/20130409/68/OBJ42290_5.low">
+                                       <server-path>/spherm/images/extObj/InCopy/14/3/4/1/20130409/68/OBJ42290_5.low</server-path>
+                                    </medium-preview>
+                                    <low-preview href="http://sun115:8080/ncm/dispatcher?auth=QkFUQ0g6QkFUQ0g=&amp;url=/ncm/file?file=/spherm/images/extObj/InCopy/14/3/4/1/20130409/68/OBJ42290_5.thn">
+                                       <server-path>/spherm/images/extObj/InCopy/14/3/4/1/20130409/68/OBJ42290_5.thn</server-path>
+                                    </low-preview>
+                                 </file-property>
+                                 <image-size type="NCMRect" unit="Pixel">
+                                    <width>172.0</width>
+                                    <height>55.0</height>
+                                 </image-size>
+                                 <original-image-size type="NCMRect" unit="PSP">
+                                    <width>172.0</width>
+                                    <height>55.0</height>
+                                 </original-image-size>
+                                 <crop-rect bottom="55" left="0" right="172" top="0"/>
+                                 <img-position llx="0.0" lly="0.0" lrx="172.0" lry="0.0" ulx="0.0" uly="55.0" urx="172.0"
+                                               ury="55.0"/>
+                                 <xy-transf crop-off-x="0.0" crop-off-y="0.0" dim-x="172.0" dim-y="55.0" flip-x="false"
+                                            flip-y="false"
+                                            norg-x="0.0"
+                                            norg-y="0.0"
+                                            rotate="0.0"
+                                            scale-x="100.0"
+                                            scale-y="100.0"
+                                            skew="0.0"/>
+                                 <bounding-box bottom="55.0" left="0.0" right="172.0" top="0.0"/>
+                              </content-property>
+                           </content-property>
+                           <copy_obj_id type="Integer">0</copy_obj_id>
+                           <copy_obj_mode type="Integer">0</copy_obj_mode>
+                           <variant_of_obj_id type="Integer">0</variant_of_obj_id>
+                           <variant_type id="0" name=""/>
+                           <numb_of_variants type="Integer">0</numb_of_variants>
+                           <relation_obj_id type="Integer">0</relation_obj_id>
+                           <sp_id type="Integer">42288</sp_id>
+                           <numb_of_sp_objs type="Integer">0</numb_of_sp_objs>
+                           <relation_type type="Integer">0</relation_type>
+                           <exp_page_number type="Integer">0</exp_page_number>
+                           <n_links type="Integer">1</n_links>
+                           <template_id type="Integer">262</template_id>
+                           <convert-property format="Neutral">
+                              <story format="PadXml" version="5.1">
+                                 <style>
+                                    <par_style color="000000" default="false" font-family="Rockwell" font-size="20.0"
+                                               font-style="italic"
+                                               font-weight="bold"
+                                               name="Summary:Summary"/>
+                                    <char_style color="000000" font-family="" font-size="0.0" name="[No character style]"/>
+                                 </style>
+                                 <par name="Summary:Summary">French Minister Fleur Pellerin began</par>
+                              </story>
+                           </convert-property>
+                           <data_type type="String">InCopy</data_type>
+                           <init_obj_mode type="Integer">0</init_obj_mode>
+                           <upd_relevance type="Short">0</upd_relevance>
+                           <flags type="Integer">0</flags>
+                           <orig_obj_id type="Integer">0</orig_obj_id>
+                           <size_graphical_file type="Long">-1</size_graphical_file>
+                           <size_native_file type="Long">-1</size_native_file>
+                           <property name="copy_infos" type="NCMCopyInfo">0-0-0-0-0-0</property>
+                           <mediatype type="String">ncm-object-14-InCopy</mediatype>
+                           <is_object_link type="Boolean">false</is_object_link>
+                           <allowed_pagination type="Boolean">true</allowed_pagination>
+                           <extra-properties/>
+                        </ncm-object>
+                     </objects-of-a-ncm-layout>
+                  </ncm-layout>
+                  <ncm-layout classversion="1.0" pk="49838:68877:ALT1">
+                     <dummy_obj_id type="Integer">0</dummy_obj_id>
+                     <edition id="68" master-edition-name="*****" mnemonic="1ST" name="FIRST" nm="1ST"
+                              time-name="FIRST"
+                              zone-name="MAIN">
+                        <newspaper-level level-path="NP">
+                           <level id="3.0.0.0.0" level="1" name="NP" path="NP" type="Newspaper,AllCatalogs"/>
+                        </newspaper-level>
+                        <page-level level-path="">
+                           <level id="0.0.0.0.0" level="0" name="ROOT" path="" type="AllCatalogs"/>
+                        </page-level>
+                     </edition>
+                     <is_inpage type="Boolean">true</is_inpage>
+                     <obj_id type="Integer">49838</obj_id>
+                     <lay_id type="Integer">68877</lay_id>
+                     <status type="NCMStatus">
+                        <status id="10" name="STORY_EDIT"/>
+                        <extended-status type="Integer">2</extended-status>
+                        <attribute type="Integer">4</attribute>
+                        <complex-status type="Integer">1</complex-status>
+                        <sendto type="list">
+                           <sendto>0</sendto>
+                        </sendto>
+                     </status>
+                     <ext_status type="String">2</ext_status>
+                     <edition id="68" master-edition-name="*****" mnemonic="1ST" name="FIRST" nm="1ST"
+                              time-name="FIRST"
+                              zone-name="MAIN">
+                        <newspaper-level level-path="NP">
+                           <level id="3.0.0.0.0" level="1" name="NP" path="NP" type="Newspaper,AllCatalogs"/>
+                        </newspaper-level>
+                        <page-level level-path="">
+                           <level id="0.0.0.0.0" level="0" name="ROOT" path="" type="AllCatalogs"/>
+                        </page-level>
+                     </edition>
+                     <reference type="String">ELWIRE03</reference>
+                     <page_id type="Integer">14658</page_id>
+                     <page_name type="String">NPS-002</page_name>
+                     <sub_reference type="Integer">0</sub_reference>
+                     <pub_date type="Date">Mar 11, 2013</pub_date>
+                     <jump_sequence type="Integer">0</jump_sequence>
+                     <level id="3.4.3.0.0" level="3" name="PAGES" path="NP/NEWS/PAGES" type="Page,HasDate"/>
+                     <property name="msendto" type="NCMMultipleSendTo">0</property>
+                     <ncm-type-property data-type="" is-external="false" name="lay_type" type="NCMType">
+                        <object-type histories="0" id="17" name="STORY_PACK">
+                           <initial-status>
+                              <status id="9" name="STORY_NEW"/>
+                           </initial-status>
+                        </object-type>
+                     </ncm-type-property>
+                     <hermes_version type="Integer">0</hermes_version>
+                     <real_size type="Integer">0</real_size>
+                     <newflag type="Integer">128</newflag>
+                     <real_lines type="Integer">0</real_lines>
+                     <priority type="Short">0</priority>
+                     <mandatory type="Short">0</mandatory>
+                     <unique_alt_id type="Integer">1</unique_alt_id>
+                     <surface type="Integer">0</surface>
+                     <agenda_id type="Integer">0</agenda_id>
+                     <copy_lay_id type="Integer">1</copy_lay_id>
+                     <assignto type="Integer">0</assignto>
+                     <hermes-layout name="lay_rect" type="NCMLayBoundRect" units="Pica">
+                        <bounding-rect depth="696.4" lay-lines="0" width="395.3" xpos="333.1" ypos="87.4"/>
+                     </hermes-layout>
+                     <attribute type="Integer">4</attribute>
+                     <obj_crc type="Integer">0</obj_crc>
+                     <obj_content type="String"/>
+                     <copy_lay_mode type="Integer">1</copy_lay_mode>
+                     <init_lay_mode type="Integer">1</init_lay_mode>
+                     <version_ts type="Date">Apr 11, 2013</version_ts>
+                     <first_linked type="Boolean">true</first_linked>
+                     <sp_lay_id type="Integer">1</sp_lay_id>
+                     <mediatype type="String">ncm-layout</mediatype>
+                     <extra-properties/>
+                     <objects-of-a-ncm-layout count="1">
+                        <ncm-object classversion="1.0" pk="49838:68877:ALT1">
+                           <pubnumber type="String"/>
+                           <obj_id type="Integer">49838</obj_id>
+                           <level id="3.4.1.0.0" level="3" name="1_CURRENT" path="NP/NEWS/1_CURRENT"
+                                  type="Object,HasDate"/>
+                           <name type="String">ELWIRE03</name>
+                           <unique_name_key type="String">3.4.1.0.0</unique_name_key>
+                           <ncm-type-property data-type="InCopy" is-external="true" name="obj_type" type="NCMType">
+                              <object-type histories="0" id="17" name="STORY_PACK">
+                                 <initial-status>
+                                    <status id="9" name="STORY_NEW"/>
+                                 </initial-status>
+                              </object-type>
+                           </ncm-type-property>
+                           <exp_pubdate type="Date">Mar 10, 2013</exp_pubdate>
+                           <exp_pubdate_days type="Integer">0</exp_pubdate_days>
+                           <edition id="0" name="*****"/>
+                           <purge_obj_id type="Integer">0</purge_obj_id>
+                           <is_deleted type="Boolean">false</is_deleted>
+                           <creator type="NCMUser">
+                              <id>25</id>
+                              <name>ELWIN</name>
+                              <type>ITD</type>
+                           </creator>
+                           <creation_ts type="Date">Apr 15, 2013</creation_ts>
+                           <modifier type="NCMUser">
+                              <id>25</id>
+                              <name>ELWIN</name>
+                              <type>ITD</type>
+                           </modifier>
+                           <modifier_ts type="Date">Apr 15, 2013</modifier_ts>
+                           <modifier_ws type="Integer">33</modifier_ws>
+                           <modifying type="NCMUser"/>
+                           <modifying_ws type="Integer">0</modifying_ws>
+                           <modifying_app type="Short">0</modifying_app>
+                           <is_locked type="Boolean">false</is_locked>
+                           <lock_type type="Short">0</lock_type>
+                           <hermes_version type="Integer">0</hermes_version>
+                           <storage_format type="Integer">1</storage_format>
+                           <priority type="Integer">0</priority>
+                           <real_chars type="Integer">0</real_chars>
+                           <parent_id type="Integer">0</parent_id>
+                           <department_id type="Integer">1</department_id>
+                           <last_update_ts type="Date">Apr 15, 2013</last_update_ts>
+                           <property name="retention_time" type="Integer">0</property>
+                           <version type="Integer">0</version>
+                           <content_version type="Integer">0</content_version>
+                           <content_modifier type="NCMUser">
+                              <id>25</id>
+                              <name>ELWIN</name>
+                              <type>ITD</type>
+                           </content_modifier>
+                           <content_modifier_ts type="Date">Apr 15, 2013</content_modifier_ts>
+                           <copy_obj_id type="Integer">0</copy_obj_id>
+                           <copy_obj_mode type="Integer">0</copy_obj_mode>
+                           <variant_of_obj_id type="Integer">0</variant_of_obj_id>
+                           <variant_type id="0" name=""/>
+                           <numb_of_variants type="Integer">0</numb_of_variants>
+                           <relation_obj_id type="Integer">0</relation_obj_id>
+                           <sp_id type="Integer">0</sp_id>
+                           <numb_of_sp_objs type="Integer">1</numb_of_sp_objs>
+                           <relation_type type="Integer">0</relation_type>
+                           <exp_page_number type="Integer">0</exp_page_number>
+                           <n_links type="Integer">1</n_links>
+                           <template_id type="Integer">0</template_id>
+                           <data_type type="String">InCopy</data_type>
+                           <init_obj_mode type="Integer">0</init_obj_mode>
+                           <upd_relevance type="Short">0</upd_relevance>
+                           <flags type="Integer">0</flags>
+                           <orig_obj_id type="Integer">0</orig_obj_id>
+                           <size_graphical_file type="Long">-1</size_graphical_file>
+                           <size_native_file type="Long">-1</size_native_file>
+                           <property name="copy_infos" type="NCMCopyInfo">0-0-1-1-0-1</property>
+                           <mediatype type="String">ncm-object-17-InCopy</mediatype>
+                           <is_object_link type="Boolean">false</is_object_link>
+                           <allowed_pagination type="Boolean">true</allowed_pagination>
+                           <extra-properties>
+                              <NP_OLD locked="false" modifier-id="25" modifier-ts="Apr 15, 2013" modifier-ws="33"
+                                      type="Metadata">
+                                 <COPYRIGHT>SPH</COPYRIGHT>
+                                 <SUB>LIMHPS</SUB>
+                                 <REDRAWS>0</REDRAWS>
+                                 <STORY_TYPE>OWN</STORY_TYPE>
+                              </NP_OLD>
+                              <NP locked="false" modifier-id="25" modifier-ts="Apr 15, 2013" modifier-ws="33"
+                                  type="Metadata">
+                                 <OBJ_COPYRIGHT>SPH</OBJ_COPYRIGHT>
+                                 <OBJ_STORYTYPE>OWN</OBJ_STORYTYPE>
+                                 <PAGE_REDRAW>0</PAGE_REDRAW>
+                              </NP>
+                           </extra-properties>
+                        </ncm-object>
+                     </objects-of-a-ncm-layout>
+                  </ncm-layout>
+                  <ncm-layout classversion="1.0" pk="49839:68878:ALT1">
+                     <dummy_obj_id type="Integer">0</dummy_obj_id>
+                     <edition id="68" master-edition-name="*****" mnemonic="1ST" name="FIRST" nm="1ST"
+                              time-name="FIRST"
+                              zone-name="MAIN">
+                        <newspaper-level level-path="NP">
+                           <level id="3.0.0.0.0" level="1" name="NP" path="NP" type="Newspaper,AllCatalogs"/>
+                        </newspaper-level>
+                        <page-level level-path="">
+                           <level id="0.0.0.0.0" level="0" name="ROOT" path="" type="AllCatalogs"/>
+                        </page-level>
+                     </edition>
+                     <is_inpage type="Boolean">true</is_inpage>
+                     <obj_id type="Integer">49839</obj_id>
+                     <lay_id type="Integer">68878</lay_id>
+                     <status type="NCMStatus">
+                        <status id="10" name="STORY_EDIT"/>
+                        <extended-status type="Integer">2</extended-status>
+                        <attribute type="Integer">1</attribute>
+                        <complex-status type="Integer">1</complex-status>
+                        <sendto type="list">
+                           <sendto>0</sendto>
+                        </sendto>
+                     </status>
+                     <ext_status type="String">2</ext_status>
+                     <edition id="68" master-edition-name="*****" mnemonic="1ST" name="FIRST" nm="1ST"
+                              time-name="FIRST"
+                              zone-name="MAIN">
+                        <newspaper-level level-path="NP">
+                           <level id="3.0.0.0.0" level="1" name="NP" path="NP" type="Newspaper,AllCatalogs"/>
+                        </newspaper-level>
+                        <page-level level-path="">
+                           <level id="0.0.0.0.0" level="0" name="ROOT" path="" type="AllCatalogs"/>
+                        </page-level>
+                     </edition>
+                     <reference type="String">ELWIRE03_TEXT68878</reference>
+                     <page_id type="Integer">14658</page_id>
+                     <page_name type="String">NPS-002</page_name>
+                     <sub_reference type="Integer">0</sub_reference>
+                     <pub_date type="Date">Mar 11, 2013</pub_date>
+                     <jump_sequence type="Integer">0</jump_sequence>
+                     <level id="3.4.3.0.0" level="3" name="PAGES" path="NP/NEWS/PAGES" type="Page,HasDate"/>
+                     <property name="msendto" type="NCMMultipleSendTo">0</property>
+                     <ncm-type-property data-type="" is-external="false" name="lay_type" type="NCMType">
+                        <object-type histories="50" id="1" name="TEXT">
+                           <initial-status>
+                              <status id="9" name="STORY_NEW"/>
+                           </initial-status>
+                        </object-type>
+                     </ncm-type-property>
+                     <hermes_version type="Integer">0</hermes_version>
+                     <real_size type="Integer">6930</real_size>
+                     <newflag type="Integer">128</newflag>
+                     <real_lines type="Integer">66</real_lines>
+                     <priority type="Short">0</priority>
+                     <mandatory type="Short">0</mandatory>
+                     <unique_alt_id type="Integer">1</unique_alt_id>
+                     <surface type="Integer">218397</surface>
+                     <agenda_id type="Integer">0</agenda_id>
+                     <copy_lay_id type="Integer">0</copy_lay_id>
+                     <assignto type="Integer">0</assignto>
+                     <hermes-layout name="lay_rect" type="NCMLayBoundRect" units="Pica">
+                        <bounding-rect depth="696.4" lay-lines="66" width="395.3" xpos="333.1" ypos="87.4"/>
+                     </hermes-layout>
+                     <attribute type="Integer">1</attribute>
+                     <obj_crc type="Integer">0</obj_crc>
+                     <obj_content type="String">AQFAAKAEgnsnAgAAAAAAAAolTlJPYmplY3Q6IFRJRkYKJUFMREltYWdlUmVzb2x1dGlvbjogNzIu
+MDAwMDAwIDcyLjAwMDAwMAolJUJvdW5kaW5nQm94OiAwIDAgMTE4LjAwMDAwMCAzMTUwLjAwMDAw
+MAolTlJPcmlnUmFzdGVyU2l6ZTogMTE4LjAwMDAwMCAzMTUwLjAwMDAwMAolTlJGaWxlTmFtZTog
+L3NwaGVybS9pbWFnZXMvZXh0T2JqL0luQ29weS8xLzMvNC8xLzIwMTMwMzEwLzAvT0JKNDk4Mzlf
+Mi5KUEcKJU5SQXJjaGl2ZTogCiVOUkNsaXBQYXRoRmxhZzogMAolTlJJbWFnZURpbWVuc2lvbnM6
+IDExOCAzMTUwCiVOUkltYWdlQ3JvcFJlY3Q6IDAgMCAxMTggMzE1MAolTlJJbWFnZVBvc2l0aW9u
+OiAwIDAgMCAzMTUwLjAwMDAwMCAxMTguMDAwMDAwIDMxNTAuMDAwMDAwIDExOC4wMDAwMDAgMAol
+TlJYWVRyYW5zZjogMTAwMDAgMTAwMDAgMCAwIDAgMCAwIDAgNzYwMDAwIGM0ZTAwMDAgMCAwCiVO
+Uk5hdGl2ZVBhdGg6IC9zcGhlcm0vaW1hZ2VzL2V4dE9iai9JbkNvcHkvMS8zLzQvMS8yMDEzMDMx
+MC8wL09CSjQ5ODM5XzIuSUNNTAolTlJOYXRpdmVBcHA6IEluQ29weQolTlJPYmplY3RFbmQK</obj_content>
+                     <copy_lay_mode type="Integer">0</copy_lay_mode>
+                     <init_lay_mode type="Integer">0</init_lay_mode>
+                     <version_ts type="Date">Apr 11, 2013</version_ts>
+                     <first_linked type="Boolean">true</first_linked>
+                     <sp_lay_id type="Integer">0</sp_lay_id>
+                     <mediatype type="String">ncm-layout</mediatype>
+                     <extra-properties/>
+                     <objects-of-a-ncm-layout count="1">
+                        <ncm-object classversion="1.0" pk="49839:68878:ALT1">
+                           <pubnumber type="String"/>
+                           <obj_id type="Integer">49839</obj_id>
+                           <level id="3.4.1.0.0" level="3" name="1_CURRENT" path="NP/NEWS/1_CURRENT"
+                                  type="Object,HasDate"/>
+                           <name type="String">ELWIRE03_TEXT</name>
+                           <unique_name_key type="String">3.4.1.0.0</unique_name_key>
+                           <ncm-type-property data-type="InCopy" is-external="true" name="obj_type" type="NCMType">
+                              <object-type histories="50" id="1" name="TEXT">
+                                 <initial-status>
+                                    <status id="9" name="STORY_NEW"/>
+                                 </initial-status>
+                              </object-type>
+                           </ncm-type-property>
+                           <exp_pubdate type="Date">Mar 10, 2013</exp_pubdate>
+                           <exp_pubdate_days type="Integer">0</exp_pubdate_days>
+                           <edition id="0" name="*****"/>
+                           <purge_obj_id type="Integer">0</purge_obj_id>
+                           <is_deleted type="Boolean">false</is_deleted>
+                           <creator type="NCMUser">
+                              <id>25</id>
+                              <name>ELWIN</name>
+                              <type>ITD</type>
+                           </creator>
+                           <creation_ts type="Date">Apr 15, 2013</creation_ts>
+                           <modifier type="NCMUser">
+                              <id>25</id>
+                              <name>ELWIN</name>
+                              <type>ITD</type>
+                           </modifier>
+                           <modifier_ts type="Date">Apr 15, 2013</modifier_ts>
+                           <modifier_ws type="Integer">33</modifier_ws>
+                           <modifying type="NCMUser"/>
+                           <modifying_ws type="Integer">0</modifying_ws>
+                           <modifying_app type="Short">0</modifying_app>
+                           <is_locked type="Boolean">false</is_locked>
+                           <lock_type type="Short">0</lock_type>
+                           <hermes_version type="Integer">0</hermes_version>
+                           <storage_format type="Integer">1</storage_format>
+                           <priority type="Integer">0</priority>
+                           <real_chars type="Integer">5117</real_chars>
+                           <parent_id type="Integer">0</parent_id>
+                           <department_id type="Integer">1</department_id>
+                           <last_update_ts type="Date">Apr 15, 2013</last_update_ts>
+                           <property name="retention_time" type="Integer">0</property>
+                           <version type="Integer">0</version>
+                           <content_version type="Integer">0</content_version>
+                           <content_modifier type="NCMUser">
+                              <id>25</id>
+                              <name>ELWIN</name>
+                              <type>ITD</type>
+                           </content_modifier>
+                           <content_modifier_ts type="Date">Apr 15, 2013</content_modifier_ts>
+                           <content-property name="adoby_incopy" type="NCMIncopy">
+                              <file-property name="hermes_file" type="File">
+                                 <file-name>OBJ49839_3.ICML</file-name>
+                                 <original-file href="http://sun115:8080/ncm/dispatcher?auth=QkFUQ0g6QkFUQ0g=&amp;url=/ncm/file?file=/spherm/images/extObj/InCopy/1/3/4/1/20130310/0/OBJ49839_3.ICML">
+                                    <server-path>/spherm/images/extObj/InCopy/1/3/4/1/20130310/0/OBJ49839_3.ICML</server-path>
+                                 </original-file>
+                              </file-property>
+                              <flat-content>US-AIRLINES/COMPLAINTS(PERSONAL FINANCE) U.S. airline complaints take off; can flyers fight back? <BR/>(The author is a Reuters contributor. The opinions expressed are his Own)<BR/>By Mitch Lipka<BR/>April 8 (REUTERS) – Consumer complaints against U.S. airlines rose sharply in 2012, even as the carriers claimed a better record of on-time arrivals and luggage handling.<BR/>Those disparate findings, from a report released on Monday,  highlight the continuing tug of war between an industry struggling to find ways to make money and a traveling public often unhappy with those choices.<BR/>The Airline Quality Rating Report, produced by professors at Purdue and Wichita State Universities, found that even though airlines lost bags or arrived late less frequently, complaints from consumers rose by more than 20 percent from 2011.<BR/>Of 11,445 complaints lodged with the U.S. Department of Transportation against airlines flying domestically, about 62 percent were in the following categories: flight problems, reservation, ticketing and boarding problems, or customer service problems.<BR/>The report noted big increases in complaints about reservations, ticketing and boarding – up about 58 percent in 2012 to 1,668 complaints from 1,058 – and customer service, where complaints rose some 44 percent to 1,634 from 1,132. <BR/>At the same time, 81.8 percent of flights were on time in 2012 compared with 80 percent in 2011 and mishandled bag complaints declined to 3.07 incidents per 1,000 passengers in 2012 from 3.35 in 2011.<BR/>An airline analyst says it makes sense that people are going to be unhappy with the airlines today.<BR/>“As the industry continues to consolidate, capacity is rationalized and reduced, seats are packed closer and closer together and load factors get higher and higher. The travel experience becomes punishing,” says Robert Mann of R.W. Mann &amp;amp; Company, an airline industry analysis and consulting company.“Add fees for services previously considered part of the bargain and you have the recipe for discontent.”<BR/>The study highlighted the growing incidences of “bumping,”when a passenger shows up at the airport and finds out his seat has been sold to someone else. The number of flyers subject to“involuntary denied boarding,” rose about 17 percent to nearly one in every 10,000. Passengers are bumped when a flight is over booked and the airline has to move them to a different flight. The report is based on data collected by the DOT.<BR/>Virgin America, included in the survey for the first time, received the highest quality ranking, followed by JetBlue Airways Corp and AirTran Airways. At the bottom of the 14-airline survey was United Airlines, where the rate of customer complaints almost doubled to 4.24 per 100,000 in 2012 from 2.21 per 100,000 passengers in 2011.<BR/>A United spokesman defended the airline.<BR/>“United’s operations improved significantly in the fall of 2012 and we continue to meet or exceed our on-time standards and set new records for performance,” spokesman Charles Hobart says.“Customer satisfaction is up, complaints are down dramatically and we are improving our customers’ experience ...”<BR/>The other airlines included in the survey, in order of their rankings, were Delta Air Lines Inc (4), Hawaiian Airlines (5), Alaska Airlines Inc (6), Frontier Airlines (7), Southwest Airlines Co (8), US Airways Inc<BR/>in the road,” he says.“We’ve pretty much come to the end of the line with the philosophy of deregulation will solve all the problems. Clearly that has failed. People need to realize they are in a black hole when it comes to consumer rights with the airlines.”<BR/>He urges consumers to contact their members of Congress to urge greater regulation and more consumer rights for airline passengers. Hudson also suggests that consumers take advantage of the tools available to them to help avoid some of the common problems.<BR/>He recommends the following:<BR/>* Travel without checking bags to keep down fees and keep your property with you. Even if you check bags, make sure you keep essential medicines with you on the plane.<BR/>* Look at weather reports for potential delays both the day you fly and the day before. <BR/>* Compensate for the typical lack of food available on-board by planning meals prior to traveling. <BR/>* Know the airline’s policy on cancellations and changing flights prior to booking. <BR/>* Use the major travel sites to compare air fares and schedules.<BR/>Sometimes, fares themselves can seduce a consumer into booking a flight. That can often translate into the most uncomfortable of all trips, Elliott says, and might not be the right choice.<BR/>(* Use the major travel sites to compare air fares and schedules.<BR/>* Compensate for the typical lack of food available on-board by planning meals prior to traveling. <BR/>* Know the airline’s policy on cancellations and changing flights prior to booking. <BR/>* Use the major travel sites to compare air fares and schedules.<BR/>Sometimes, fares themselves can seduce a consumer into booking a flight. That can often translate into the most uncomfortable of all trips, Elliott says, and might not be the right choice. (Follow us @ReutersMoney or at http://www.reuters.com/finance/person-finance.</flat-content>
+                              <content-property imagetype="TIFF" name="hermes_image" type="NCMImage">
+                                 <original-file href="http://sun115:8080/ncm/dispatcher?auth=QkFUQ0g6QkFUQ0g=&amp;url=/ncm/file?file=/spherm/images/extObj/InCopy/1/3/4/1/20130310/0/OBJ49839_3.ICML"/>
+                                 <file-property name="hermes_image" type="NCMImage">
+                                    <file-name>OBJ49839_3.JPG</file-name>
+                                    <original-file href="http://sun115:8080/ncm/dispatcher?auth=QkFUQ0g6QkFUQ0g=&amp;url=/ncm/file?file=/spherm/images/extObj/InCopy/1/3/4/1/20130310/0/OBJ49839_3.JPG">
+                                       <server-path>/spherm/images/extObj/InCopy/1/3/4/1/20130310/0/OBJ49839_3.JPG</server-path>
+                                    </original-file>
+                                    <medium-preview href="http://sun115:8080/ncm/dispatcher?auth=QkFUQ0g6QkFUQ0g=&amp;url=/ncm/file?file=/spherm/images/extObj/InCopy/1/3/4/1/20130310/0/OBJ49839_3.low">
+                                       <server-path>/spherm/images/extObj/InCopy/1/3/4/1/20130310/0/OBJ49839_3.low</server-path>
+                                    </medium-preview>
+                                    <low-preview href="http://sun115:8080/ncm/dispatcher?auth=QkFUQ0g6QkFUQ0g=&amp;url=/ncm/file?file=/spherm/images/extObj/InCopy/1/3/4/1/20130310/0/OBJ49839_3.thn">
+                                       <server-path>/spherm/images/extObj/InCopy/1/3/4/1/20130310/0/OBJ49839_3.thn</server-path>
+                                    </low-preview>
+                                 </file-property>
+                                 <image-size type="NCMRect" unit="Pixel">
+                                    <width>394.0</width>
+                                    <height>694.0</height>
+                                 </image-size>
+                                 <original-image-size type="NCMRect" unit="PSP">
+                                    <width>394.0</width>
+                                    <height>694.0</height>
+                                 </original-image-size>
+                                 <crop-rect bottom="694" left="0" right="394" top="0"/>
+                                 <img-position llx="0.0" lly="0.0" lrx="394.0" lry="0.0" ulx="0.0" uly="694.0" urx="394.0"
+                                               ury="694.0"/>
+                                 <xy-transf crop-off-x="0.0" crop-off-y="0.0" dim-x="394.0" dim-y="694.0" flip-x="false"
+                                            flip-y="false"
+                                            norg-x="0.0"
+                                            norg-y="0.0"
+                                            rotate="0.0"
+                                            scale-x="100.0"
+                                            scale-y="100.0"
+                                            skew="0.0"/>
+                                 <bounding-box bottom="694.0" left="0.0" right="394.0" top="0.0"/>
+                              </content-property>
+                           </content-property>
+                           <copy_obj_id type="Integer">0</copy_obj_id>
+                           <copy_obj_mode type="Integer">0</copy_obj_mode>
+                           <variant_of_obj_id type="Integer">0</variant_of_obj_id>
+                           <variant_type id="0" name=""/>
+                           <numb_of_variants type="Integer">0</numb_of_variants>
+                           <relation_obj_id type="Integer">0</relation_obj_id>
+                           <sp_id type="Integer">49838</sp_id>
+                           <numb_of_sp_objs type="Integer">0</numb_of_sp_objs>
+                           <relation_type type="Integer">0</relation_type>
+                           <exp_page_number type="Integer">0</exp_page_number>
+                           <n_links type="Integer">1</n_links>
+                           <template_id type="Integer">0</template_id>
+                           <convert-property format="Neutral">
+                              <story format="PadXml" version="5.1">
+                                 <style>
+                                    <par_style color="000000" default="false" font-family="" font-size="0.0"
+                                               name="NormalParagraphStyle"/>
+                                    <char_style color="000000" font-family="" font-size="0.0" name="[No character style]"/>
+                                 </style>
+                                 <par name="NormalParagraphStyle">
+                                    <char font-family="Utopia" font-size="9.0" name="NormalParagraphStyle">US-AIRLINES/COMPLAINTS(PERSONAL FINANCE) U.S. airline complaints take off; can flyers fight back? </char>
+                                    <char font-family="Utopia" font-size="9.0" name="NormalParagraphStyle">
+(The author is a Reuters contributor. The opinions expressed are his Own)</char>
+                                    <char font-family="Utopia" font-size="9.0" name="NormalParagraphStyle">
+By Mitch Lipka</char>
+                                    <char font-family="Utopia" font-size="9.0" name="NormalParagraphStyle">
+April 8 (REUTERS) – Consumer complaints against U.S. airlines rose sharply in 2012, even as the carriers claimed a better record of on-time arrivals and luggage handling.</char>
+                                    <char font-family="Utopia" font-size="9.0" name="NormalParagraphStyle">
+Those disparate findings, from a report released on Monday,  highlight the continuing tug of war between an industry struggling to find ways to make money and a traveling public often unhappy with those choices.</char>
+                                    <char font-family="Utopia" font-size="9.0" name="NormalParagraphStyle">
+The Airline Quality Rating Report, produced by professors at Purdue and Wichita State Universities, found that even though airlines lost bags or arrived late less frequently, complaints from consumers rose by more than 20 percent from 2011.</char>
+                                    <char font-family="Utopia" font-size="9.0" name="NormalParagraphStyle">
+Of 11,445 complaints lodged with the U.S. Department of Transportation against airlines flying domestically, about 62 percent were in the following categories: flight problems, reservation, ticketing and boarding problems, or customer service problems.</char>
+                                    <char font-family="Utopia" font-size="9.0" name="NormalParagraphStyle">
+The report noted big increases in complaints about reservations, ticketing and boarding – up about 58 percent in 2012 to 1,668 complaints from 1,058 – and customer service, where complaints rose some 44 percent to 1,634 from 1,132. </char>
+                                    <char font-family="Utopia" font-size="9.0" name="NormalParagraphStyle">
+At the same time, 81.8 percent of flights were on time in 2012 compared with 80 percent in 2011 and mishandled bag complaints declined to 3.07 incidents per 1,000 passengers in 2012 from 3.35 in 2011.</char>
+                                    <char font-family="Utopia" font-size="9.0" name="NormalParagraphStyle">
+An airline analyst says it makes sense that people are going to be unhappy with the airlines today.</char>
+                                    <char font-family="Utopia" font-size="9.0" name="NormalParagraphStyle">
+“As the industry continues to consolidate, capacity is rationalized and reduced, seats are packed closer and closer together and load factors get higher and higher. The travel experience becomes punishing,” says Robert Mann of R.W. Mann &amp; Company, an airline industry analysis and consulting company.“Add fees for services previously considered part of the bargain and you have the recipe for discontent.”</char>
+                                    <char font-family="Utopia" font-size="9.0" name="NormalParagraphStyle">
+The study highlighted the growing incidences of “bumping,”when a passenger shows up at the airport and finds out his seat has been sold to someone else. The number of flyers subject to“involuntary denied boarding,” rose about 17 percent to nearly one in every 10,000. Passengers are bumped when a flight is over booked and the airline has to move them to a different flight. The report is based on data collected by the DOT.</char>
+                                    <char font-family="Utopia" font-size="9.0" name="NormalParagraphStyle">
+Virgin America, included in the survey for the first time, received the highest quality ranking, followed by JetBlue Airways Corp and AirTran Airways. At the bottom of the 14-airline survey was United Airlines, where the rate of customer complaints almost doubled to 4.24 per 100,000 in 2012 from 2.21 per 100,000 passengers in 2011.</char>
+                                    <char font-family="Utopia" font-size="9.0" name="NormalParagraphStyle">
+A United spokesman defended the airline.</char>
+                                    <char font-family="Utopia" font-size="9.0" name="NormalParagraphStyle">
+“United’s operations improved significantly in the fall of 2012 and we continue to meet or exceed our on-time standards and set new records for performance,” spokesman Charles Hobart says.“Customer satisfaction is up, complaints are down dramatically and we are improving our customers’ experience ...”</char>
+                                    <char font-family="Utopia" font-size="9.0" name="NormalParagraphStyle">
+The other airlines included in the survey, in order of their rankings, were Delta Air Lines Inc (4), Hawaiian Airlines (5), Alaska Airlines Inc (6), Frontier Airlines (7), Southwest Airlines Co (8), US Airways Inc</char>
+                                    <char font-family="Utopia" font-size="9.0" name="NormalParagraphStyle">
+in the road,” he says.“We’ve pretty much come to the end of the line with the philosophy of deregulation will solve all the problems. Clearly that has failed. People need to realize they are in a black hole when it comes to consumer rights with the airlines.”</char>
+                                    <char font-family="Utopia" font-size="9.0" name="NormalParagraphStyle">
+He urges consumers to contact their members of Congress to urge greater regulation and more consumer rights for airline passengers. Hudson also suggests that consumers take advantage of the tools available to them to help avoid some of the common problems.</char>
+                                    <char font-family="Utopia" font-size="9.0" name="NormalParagraphStyle">
+He recommends the following:</char>
+                                    <char font-family="Utopia" font-size="9.0" name="NormalParagraphStyle">
+* Travel without checking bags to keep down fees and keep your property with you. Even if you check bags, make sure you keep essential medicines with you on the plane.</char>
+                                    <char font-family="Utopia" font-size="9.0" name="NormalParagraphStyle">
+* Look at weather reports for potential delays both the day you fly and the day before. </char>
+                                    <char font-family="Utopia" font-size="9.0" name="NormalParagraphStyle">
+* Compensate for the typical lack of food available on-board by planning meals prior to traveling. </char>
+                                    <char font-family="Utopia" font-size="9.0" name="NormalParagraphStyle">
+* Know the airline’s policy on cancellations and changing flights prior to booking. </char>
+                                    <char font-family="Utopia" font-size="9.0" name="NormalParagraphStyle">
+* Use the major travel sites to compare air fares and schedules.</char>
+                                    <char font-family="Utopia" font-size="9.0" name="NormalParagraphStyle">
+Sometimes, fares themselves can seduce a consumer into booking a flight. That can often translate into the most uncomfortable of all trips, Elliott says, and might not be the right choice.</char>
+                                    <char font-family="Utopia" font-size="9.0" name="NormalParagraphStyle">
+(* Use the major travel sites to compare air fares and schedules.</char>
+                                    <char font-family="Utopia" font-size="9.0" name="NormalParagraphStyle">
+* Compensate for the typical lack of food available on-board by planning meals prior to traveling. </char>
+                                    <char font-family="Utopia" font-size="9.0" name="NormalParagraphStyle">
+* Know the airline’s policy on cancellations and changing flights prior to booking. </char>
+                                    <char font-family="Utopia" font-size="9.0" name="NormalParagraphStyle">
+* Use the major travel sites to compare air fares and schedules.</char>
+                                    <char font-family="Utopia" font-size="9.0" name="NormalParagraphStyle">
+Sometimes, fares themselves can seduce a consumer into booking a flight. That can often translate into the most uncomfortable of all trips, Elliott says, and might not be the right choice. (Follow us @ReutersMoney or at http://www.reuters.com/finance/person-finance.</char>
+                                 </par>
+                              </story>
+                           </convert-property>
+                           <data_type type="String">InCopy</data_type>
+                           <init_obj_mode type="Integer">0</init_obj_mode>
+                           <upd_relevance type="Short">0</upd_relevance>
+                           <flags type="Integer">0</flags>
+                           <orig_obj_id type="Integer">0</orig_obj_id>
+                           <size_graphical_file type="Long">-1</size_graphical_file>
+                           <size_native_file type="Long">-1</size_native_file>
+                           <property name="copy_infos" type="NCMCopyInfo">0-0-0-0-0-0</property>
+                           <mediatype type="String">ncm-object-1-InCopy</mediatype>
+                           <is_object_link type="Boolean">false</is_object_link>
+                           <allowed_pagination type="Boolean">true</allowed_pagination>
+                           <extra-properties/>
+                        </ncm-object>
+                     </objects-of-a-ncm-layout>
+                  </ncm-layout>
+                  <ncm-layout classversion="1.0" pk="42288:62995:ALT1">
+                     <dummy_obj_id type="Integer">0</dummy_obj_id>
+                     <edition id="68" master-edition-name="*****" mnemonic="1ST" name="FIRST" nm="1ST"
+                              time-name="FIRST"
+                              zone-name="MAIN">
+                        <newspaper-level level-path="NP">
+                           <level id="3.0.0.0.0" level="1" name="NP" path="NP" type="Newspaper,AllCatalogs"/>
+                        </newspaper-level>
+                        <page-level level-path="">
+                           <level id="0.0.0.0.0" level="0" name="ROOT" path="" type="AllCatalogs"/>
+                        </page-level>
+                     </edition>
+                     <is_inpage type="Boolean">true</is_inpage>
+                     <obj_id type="Integer">42288</obj_id>
+                     <lay_id type="Integer">62995</lay_id>
+                     <status type="NCMStatus">
+                        <status id="12" name="STORY_FINAL"/>
+                        <extended-status type="Integer">66</extended-status>
+                        <attribute type="Integer">4</attribute>
+                        <complex-status type="Integer">1</complex-status>
+                        <sendto type="list">
+                           <sendto>0</sendto>
+                        </sendto>
+                     </status>
+                     <ext_status type="String">66</ext_status>
+                     <edition id="68" master-edition-name="*****" mnemonic="1ST" name="FIRST" nm="1ST"
+                              time-name="FIRST"
+                              zone-name="MAIN">
+                        <newspaper-level level-path="NP">
+                           <level id="3.0.0.0.0" level="1" name="NP" path="NP" type="Newspaper,AllCatalogs"/>
+                        </newspaper-level>
+                        <page-level level-path="">
+                           <level id="0.0.0.0.0" level="0" name="ROOT" path="" type="AllCatalogs"/>
+                        </page-level>
+                     </edition>
+                     <reference type="String">MARKCHANTEST</reference>
+                     <page_id type="Integer">14658</page_id>
+                     <page_name type="String">NPS-002</page_name>
+                     <sub_reference type="Integer">0</sub_reference>
+                     <pub_date type="Date">Mar 11, 2013</pub_date>
+                     <jump_sequence type="Integer">0</jump_sequence>
+                     <level id="3.4.3.0.0" level="3" name="PAGES" path="NP/NEWS/PAGES" type="Page,HasDate"/>
+                     <property name="msendto" type="NCMMultipleSendTo">0</property>
+                     <ncm-type-property data-type="" is-external="false" name="lay_type" type="NCMType">
+                        <object-type histories="0" id="17" name="STORY_PACK">
+                           <initial-status>
+                              <status id="9" name="STORY_NEW"/>
+                           </initial-status>
+                        </object-type>
+                     </ncm-type-property>
+                     <hermes_version type="Integer">0</hermes_version>
+                     <real_size type="Integer">0</real_size>
+                     <newflag type="Integer">128</newflag>
+                     <real_lines type="Integer">0</real_lines>
+                     <priority type="Short">0</priority>
+                     <mandatory type="Short">0</mandatory>
+                     <unique_alt_id type="Integer">1</unique_alt_id>
+                     <surface type="Integer">0</surface>
+                     <agenda_id type="Integer">0</agenda_id>
+                     <copy_lay_id type="Integer">1</copy_lay_id>
+                     <assignto type="Integer">0</assignto>
+                     <hermes-layout name="lay_rect" type="NCMLayBoundRect" units="Pica">
+                        <bounding-rect depth="793.4" lay-lines="0" width="327.2" xpos="0.0" ypos="87.4"/>
+                     </hermes-layout>
+                     <attribute type="Integer">4</attribute>
+                     <obj_crc type="Integer">0</obj_crc>
+                     <obj_content type="String">AQFAAOoVMB4mAgAAAAAAAAolTlJPYmplY3Q6IFRJRkYKJUFMREltYWdlUmVzb2x1dGlvbjogNzIu
+MDAwMDAwIDcyLjAwMDAwMAolJUJvdW5kaW5nQm94OiAwIDAgNTU5LjAwMDAwMCA3NzAuMDAwMDAw
+CiVOUk9yaWdSYXN0ZXJTaXplOiA1NTkuMDAwMDAwIDc3MC4wMDAwMDAKJU5SRmlsZU5hbWU6IC9z
+cGhlcm0vaW1hZ2VzL2V4dE9iai9JbkNvcHkvMTcvMy80LzEvMjAxMzA0MDkvNjgvT0JKNDIyODhf
+MS5KUEcKJU5SQXJjaGl2ZTogCiVOUkNsaXBQYXRoRmxhZzogMAolTlJJbWFnZURpbWVuc2lvbnM6
+IDU1OSA3NzAKJU5SSW1hZ2VDcm9wUmVjdDogMCAwIDU1OSA3NzAKJU5SSW1hZ2VQb3NpdGlvbjog
+MCAwIDAgNzcwLjAwMDAwMCA1NTkuMDAwMDAwIDc3MC4wMDAwMDAgNTU5LjAwMDAwMCAwCiVOUlhZ
+VHJhbnNmOiAxMDAwMCAxMDAwMCAwIDAgMCAwIDAgMCAyMmYwMDAwIDMwMjAwMDAgMCAwCiVOUk5h
+dGl2ZVBhdGg6IC9zcGhlcm0vaW1hZ2VzL2V4dE9iai9JbkNvcHkvMTcvMy80LzEvMjAxMzA0MDkv
+NjgvT0JKNDIyODhfMS5JQ01MCiVOUk5hdGl2ZUFwcDogSW5Db3B5CiVOUk9iamVjdEVuZAo=</obj_content>
+                     <copy_lay_mode type="Integer">1</copy_lay_mode>
+                     <init_lay_mode type="Integer">1</init_lay_mode>
+                     <version_ts type="Date">Apr 11, 2013</version_ts>
+                     <first_linked type="Boolean">true</first_linked>
+                     <sp_lay_id type="Integer">1</sp_lay_id>
+                     <mediatype type="String">ncm-layout</mediatype>
+                     <extra-properties/>
+                     <objects-of-a-ncm-layout count="1">
+                        <ncm-object classversion="1.0" pk="42288:62995:ALT1">
+                           <pubnumber type="String"/>
+                           <obj_id type="Integer">42288</obj_id>
+                           <level id="3.4.1.0.0" level="3" name="1_CURRENT" path="NP/NEWS/1_CURRENT"
+                                  type="Object,HasDate"/>
+                           <name type="String">MARKCHANTEST</name>
+                           <unique_name_key type="String">3.4.1.0.0</unique_name_key>
+                           <ncm-type-property data-type="InCopy" is-external="true" name="obj_type" type="NCMType">
+                              <object-type histories="0" id="17" name="STORY_PACK">
+                                 <initial-status>
+                                    <status id="9" name="STORY_NEW"/>
+                                 </initial-status>
+                              </object-type>
+                           </ncm-type-property>
+                           <exp_pubdate type="Date">Apr 9, 2013</exp_pubdate>
+                           <exp_pubdate_to type="Date">Apr 9, 2013</exp_pubdate_to>
+                           <exp_pubdate_days type="Integer">0</exp_pubdate_days>
+                           <edition id="68" master-edition-name="*****" mnemonic="1ST" name="FIRST" nm="1ST"
+                                    time-name="FIRST"
+                                    zone-name="MAIN">
+                              <newspaper-level level-path="NP">
+                                 <level id="3.0.0.0.0" level="1" name="NP" path="NP" type="Newspaper,AllCatalogs"/>
+                              </newspaper-level>
+                              <page-level level-path="">
+                                 <level id="0.0.0.0.0" level="0" name="ROOT" path="" type="AllCatalogs"/>
+                              </page-level>
+                           </edition>
+                           <purge_obj_id type="Integer">0</purge_obj_id>
+                           <is_deleted type="Boolean">false</is_deleted>
+                           <creator type="NCMUser">
+                              <id>863</id>
+                              <name>LIMBHK</name>
+                              <type>ITD</type>
+                           </creator>
+                           <creation_ts type="Date">Apr 8, 2013</creation_ts>
+                           <modifier type="NCMUser">
+                              <id>25</id>
+                              <name>ELWIN</name>
+                              <type>ITD</type>
+                           </modifier>
+                           <modifier_ts type="Date">Apr 11, 2013</modifier_ts>
+                           <modifier_ws type="Integer">33</modifier_ws>
+                           <modifying type="NCMUser"/>
+                           <modifying_ws type="Integer">0</modifying_ws>
+                           <modifying_app type="Short">0</modifying_app>
+                           <is_locked type="Boolean">false</is_locked>
+                           <lock_type type="Short">0</lock_type>
+                           <hermes_version type="Integer">0</hermes_version>
+                           <storage_format type="Integer">1</storage_format>
+                           <priority type="Integer">0</priority>
+                           <real_chars type="Integer">0</real_chars>
+                           <parent_id type="Integer">0</parent_id>
+                           <department_id type="Integer">1</department_id>
+                           <last_update_ts type="Date">Apr 8, 2013</last_update_ts>
+                           <property name="retention_time" type="Integer">0</property>
+                           <version type="Integer">0</version>
+                           <content_version type="Integer">0</content_version>
+                           <content_modifier type="NCMUser">
+                              <id>25</id>
+                              <name>ELWIN</name>
+                              <type>ITD</type>
+                           </content_modifier>
+                           <content_modifier_ts type="Date">Apr 11, 2013</content_modifier_ts>
+                           <copy_obj_id type="Integer">0</copy_obj_id>
+                           <copy_obj_mode type="Integer">0</copy_obj_mode>
+                           <variant_of_obj_id type="Integer">0</variant_of_obj_id>
+                           <variant_type id="0" name=""/>
+                           <numb_of_variants type="Integer">0</numb_of_variants>
+                           <relation_obj_id type="Integer">0</relation_obj_id>
+                           <sp_id type="Integer">0</sp_id>
+                           <numb_of_sp_objs type="Integer">4</numb_of_sp_objs>
+                           <relation_type type="Integer">0</relation_type>
+                           <exp_page_number type="Integer">0</exp_page_number>
+                           <n_links type="Integer">1</n_links>
+                           <template_id type="Integer">262</template_id>
+                           <data_type type="String">InCopy</data_type>
+                           <init_obj_mode type="Integer">0</init_obj_mode>
+                           <upd_relevance type="Short">0</upd_relevance>
+                           <flags type="Integer">0</flags>
+                           <orig_obj_id type="Integer">0</orig_obj_id>
+                           <size_graphical_file type="Long">-1</size_graphical_file>
+                           <size_native_file type="Long">-1</size_native_file>
+                           <property name="copy_infos" type="NCMCopyInfo">0-0-1-1-0-1</property>
+                           <mediatype type="String">ncm-object-17-InCopy</mediatype>
+                           <is_object_link type="Boolean">false</is_object_link>
+                           <allowed_pagination type="Boolean">true</allowed_pagination>
+                           <extra-properties>
+                              <NP_OLD locked="false" modifier-id="863" modifier-ts="Apr 8, 2013" modifier-ws="24"
+                                      type="Metadata">
+                                 <COPYRIGHT>SPH</COPYRIGHT>
+                                 <SUB>LIMHPS</SUB>
+                                 <REDRAWS>0</REDRAWS>
+                                 <STORY_TYPE>OWN</STORY_TYPE>
+                              </NP_OLD>
+                              <NP locked="false" modifier-id="25" modifier-ts="Apr 11, 2013" modifier-ws="33"
+                                  type="Metadata">
+                                 <OBJ_COPYRIGHT>NON SPH</OBJ_COPYRIGHT>
+                                 <OBJ_STORYTYPE>OWN</OBJ_STORYTYPE>
+                                 <OBJ_SUB>QUEKCH</OBJ_SUB>
+                                 <OBJ_CHECKER>SEOWPHM</OBJ_CHECKER>
+                                 <PAGE_REDRAW>0</PAGE_REDRAW>
+                              </NP>
+                           </extra-properties>
+                        </ncm-object>
+                     </objects-of-a-ncm-layout>
+                  </ncm-layout>
+                  <new>new element</new>
+                  <new>new element</new>
+               </layouts-in-ncm-logical-page>
+            </ncm-logical-page>
+         </logical-pages-linked-to-ncm-physical-page>
+         <physlogpages-linked-to-physical-page count="1">
+            <ncm-physlog-page classversion="1.0" pk="59674:1:1">
+               <phpage_id type="Integer">59674</phpage_id>
+               <subseq_number type="Integer">1</subseq_number>
+               <seq_number type="Integer">2</seq_number>
+               <max_depth type="Integer">0</max_depth>
+               <level id="3.0.0.0.0" level="1" name="NP" path="NP" type="Newspaper,AllCatalogs"/>
+               <pub_date type="Date">Mar 11, 2013</pub_date>
+               <edition id="68" master-edition-name="*****" mnemonic="1ST" name="FIRST" nm="1ST"
+                        time-name="FIRST"
+                        zone-name="MAIN">
+                  <newspaper-level level-path="NP">
+                     <level id="3.0.0.0.0" level="1" name="NP" path="NP" type="Newspaper,AllCatalogs"/>
+                  </newspaper-level>
+                  <page-level level-path="">
+                     <level id="0.0.0.0.0" level="0" name="ROOT" path="" type="AllCatalogs"/>
+                  </page-level>
+               </edition>
+               <newspaper_id type="Integer">218</newspaper_id>
+               <master_phpage_id type="Integer">0</master_phpage_id>
+               <first_phpage_id type="Integer">59674</first_phpage_id>
+               <logpage_id type="Integer">14658</logpage_id>
+               <level id="3.4.3.0.0" level="3" name="PAGES" path="NP/NEWS/PAGES" type="Page,HasDate"/>
+               <logpage_name type="String">NPS-002</logpage_name>
+               <edition id="68" master-edition-name="*****" mnemonic="1ST" name="FIRST" nm="1ST"
+                        time-name="FIRST"
+                        zone-name="MAIN">
+                  <newspaper-level level-path="NP">
+                     <level id="3.0.0.0.0" level="1" name="NP" path="NP" type="Newspaper,AllCatalogs"/>
+                  </newspaper-level>
+                  <page-level level-path="">
+                     <level id="0.0.0.0.0" level="0" name="ROOT" path="" type="AllCatalogs"/>
+                  </page-level>
+               </edition>
+               <logpage_style type="String">NPS_SGL_ID</logpage_style>
+               <logpage_modifier type="NCMUser">
+                  <id>25</id>
+                  <name>ELWIN</name>
+                  <type>ITD</type>
+               </logpage_modifier>
+               <logpage_modifier_ts type="Date">Apr 15, 2013</logpage_modifier_ts>
+               <logpage_modifier_ws type="Integer">33</logpage_modifier_ws>
+               <logpage_last_update_ts type="Date">Apr 15, 2013</logpage_last_update_ts>
+               <logpage_plannedcolors type="NCMColor">
+                  <stdcolors type="String">CMYK</stdcolors>
+                  <options type="String">COMPOSITE 4PLATES</options>
+               </logpage_plannedcolors>
+               <logpage_xorigin type="Integer">0</logpage_xorigin>
+               <logpage_yorigin type="Integer">0</logpage_yorigin>
+               <logpage_xshift type="Integer">0</logpage_xshift>
+               <logpage_yshift type="Integer">0</logpage_yshift>
+               <logpage_wclipping type="Integer">0</logpage_wclipping>
+               <logpage_dclipping type="Integer">0</logpage_dclipping>
+               <logpage_copy_level_id type="String">0.0.0.0.0</logpage_copy_level_id>
+               <logpage_status type="NCMStatus">
+                  <status id="29" name="PAGE_DESIGN"/>
+                  <extended-status type="Integer">32</extended-status>
+                  <sendto type="list">
+                     <sendto>0</sendto>
+                  </sendto>
+               </logpage_status>
+               <logpage_unique_alt_id type="Integer">1</logpage_unique_alt_id>
+               <extra-properties/>
+            </ncm-physlog-page>
+         </physlogpages-linked-to-physical-page>
+      </ncm-physical-page>
+   </physical-pages-of-a-ncm-edition>
+</ncm-edition>
